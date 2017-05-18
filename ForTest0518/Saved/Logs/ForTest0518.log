@@ -678,3 +678,1347 @@ Localization Resource: (C:/Program Files (x86)/Epic/UE_4.15/Engine/Content/Local
 [2017.05.18-11.14.48:338][773]LogSavePackage: Save=2.06ms
 [2017.05.18-11.14.48:338][773]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/NewBlueprintA8D5B67E4B7CA2BCB2475B8C6995D174.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/NewBlueprint.uasset'
 [2017.05.18-11.14.48:342][773]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/NewBlueprint.uasset
+[2017.05.18-11.17.09:895][704]LogMetaData: Removing '/Game/Interface/DamageInterface.SKEL_DamageInterface_C' ref from Metadata '/Game/Interface/NewInterface.PackageMetaData'
+[2017.05.18-11.17.09:896][704]LogMetaData: Removing '/Game/Interface/DamageInterface.DamageInterface_C' ref from Metadata '/Game/Interface/NewInterface.PackageMetaData'
+[2017.05.18-11.17.09:917][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/DamageInterface" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Interface/DamageInterface.uasset" SILENT=true
+[2017.05.18-11.17.09:923][704]LogSavePackage: Save=3.39ms
+[2017.05.18-11.17.09:923][704]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/DamageInterface34434EA24EC48E05B428E184EF40E729.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Interface/DamageInterface.uasset'
+[2017.05.18-11.17.09:926][704]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Interface/DamageInterface.uasset
+[2017.05.18-11.18.22:622][719]BlueprintLog: New page: DamageInterface 컴파일
+[2017.05.18-11.19.28:423][523]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.18-11.19.29:833][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset" SILENT=true
+[2017.05.18-11.19.29:939][602]LogSavePackage: Save=40.76ms
+[2017.05.18-11.19.29:939][602]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/BulletBPF7DF7D774E1403951791ECBFF46B5EF7.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset'
+[2017.05.18-11.19.29:942][602]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset
+[2017.05.18-11.19.33:515][847]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.18-11.19.34:385][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset" SILENT=true
+[2017.05.18-11.19.34:411][882]LogSavePackage: Save=22.20ms
+[2017.05.18-11.19.34:411][882]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/BulletBP9D21E01648A9F6028823BCAC784C8EA4.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset'
+[2017.05.18-11.19.34:414][882]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset
+[2017.05.18-11.19.41:907][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset" SILENT=true
+[2017.05.18-11.19.41:926][126]LogSavePackage: Save=15.43ms
+[2017.05.18-11.19.41:926][126]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/BulletBP95F129194C45B8BB2C5C75A877D16A8B.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset'
+[2017.05.18-11.19.41:927][126]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset
+[2017.05.18-11.19.44:485][350]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-11.19.44:504][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-11.19.44:504][350]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 5:19:44)
+[2017.05.18-11.19.44:504][350]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-11.19.44:507][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002363s)
+[2017.05.18-11.19.44:507][350]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-11.19.44:508][350]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2017.05.18-11.19.44:508][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003396s)
+[2017.05.18-11.19.44:565][350]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-11.19.44:588][350]LogInit: FAudioDevice initialized.
+[2017.05.18-11.19.44:619][350]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-11.19.44:622][350]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-20.19.44
+[2017.05.18-11.19.44:622][350]LogWorld: Bringing up level for play took: 0.001982
+[2017.05.18-11.19.44:624][350]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.823
+[2017.05.18-11.22.23:295][350]LogEditorTransaction: Undo 노드 추가
+[2017.05.18-11.22.23:337][350]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.18-11.22.23:342][350]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.05.18-11.22.23:346][350]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.05.18-11.22.45:520][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Baselevel" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.18-11.22.45:610][875]LogSavePackage: Save=39.81ms
+[2017.05.18-11.22.45:610][875]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Baselevel0DD7C7314C684D15B7F39B861A314DFD.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap'
+[2017.05.18-11.22.45:614][875]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap
+[2017.05.18-11.22.45:629][875]LogFileHelpers: Saving map 'Baselevel' took 0.587
+[2017.05.18-11.22.45:648][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset" SILENT=true
+[2017.05.18-11.22.45:700][875]LogSavePackage: Save=47.26ms
+[2017.05.18-11.22.45:700][875]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HeroBPD313C02D43338E932AA7C88F03429D70.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset'
+[2017.05.18-11.22.45:712][875]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset
+[2017.05.18-11.22.45:715][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/NewInterface" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Interface/NewInterface.uasset" SILENT=true
+[2017.05.18-11.22.45:719][875]LogSavePackage: Save=1.69ms
+[2017.05.18-11.22.45:719][875]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/NewInterface1576B21C46D019E2E62EB3B9C3CA1772.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Interface/NewInterface.uasset'
+[2017.05.18-11.22.45:721][875]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Interface/NewInterface.uasset
+[2017.05.18-11.22.45:724][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/DamageInterface" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Interface/DamageInterface.uasset" SILENT=true
+[2017.05.18-11.22.45:734][875]LogSavePackage: Save=4.27ms
+[2017.05.18-11.22.45:734][875]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/DamageInterfaceC7E7B3AB4B26B00BB25898B9B739B645.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Interface/DamageInterface.uasset'
+[2017.05.18-11.22.45:738][875]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Interface/DamageInterface.uasset
+[2017.05.18-11.25.15:192][ 66]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-11.25.46:949][387]LogEditorTransaction: Undo 노드 추가
+[2017.05.18-11.25.46:991][387]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.18-11.25.46:994][387]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.05.18-11.25.46:997][387]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.05.18-11.26.04:032][192]LogEditorTransaction: Undo 노드 추가
+[2017.05.18-11.26.04:073][192]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.18-11.26.04:076][192]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.05.18-11.26.04:079][192]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.05.18-11.32.46:331][575]LogSavePackage: Save=76.59ms
+[2017.05.18-11.32.46:331][575]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Baselevel_Auto5290080284EF18C606BD9308568105ABA.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Levels/Baselevel_Auto5.umap'
+[2017.05.18-11.32.46:349][575]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Levels/Baselevel_Auto5.umap
+[2017.05.18-11.32.46:351][575]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Baselevel' took 0.594
+[2017.05.18-11.32.46:351][575]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.594
+[2017.05.18-11.32.46:354][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Hero/HeroBP] ([1] browsable assets)...
+[2017.05.18-11.32.46:376][575]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Hero/HeroBP.HeroBP]
+[2017.05.18-11.32.46:376][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hero/HeroBP]
+[2017.05.18-11.32.46:376][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2017.05.18-11.32.46:528][575]LogSavePackage: Save=90.24ms
+[2017.05.18-11.32.46:528][575]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HeroBP_Auto56BC7FCFD4AE350C4D75512824D9C9EF3.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto5.uasset'
+[2017.05.18-11.32.46:529][575]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto5.uasset
+[2017.05.18-11.32.46:529][575]LogFileHelpers: Auto-saving content packages took 0.177
+[2017.05.18-11.51.39:260][415]BlueprintLog: New page: HeroBP 컴파일
+[2017.05.18-11.52.29:173][398]LogSavePackage: Save=48.36ms
+[2017.05.18-11.52.29:173][398]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Baselevel_Auto6AA1A67AC4CF15D967AC8328F4E5A9C2D.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Levels/Baselevel_Auto6.umap'
+[2017.05.18-11.52.29:175][398]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Levels/Baselevel_Auto6.umap
+[2017.05.18-11.52.29:177][398]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Baselevel' took 0.078
+[2017.05.18-11.52.29:177][398]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.078
+[2017.05.18-11.52.29:179][398]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Hero/HeroBP] ([1] browsable assets)...
+[2017.05.18-11.52.29:196][398]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Hero/HeroBP.HeroBP]
+[2017.05.18-11.52.29:196][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hero/HeroBP]
+[2017.05.18-11.52.29:196][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2017.05.18-11.52.29:286][398]LogSavePackage: Save=85.09ms
+[2017.05.18-11.52.29:286][398]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HeroBP_Auto649AEA9D04FBF2346E92E388FFDD47C6D.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto6.uasset'
+[2017.05.18-11.52.29:288][398]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto6.uasset
+[2017.05.18-11.52.29:288][398]LogFileHelpers: Auto-saving content packages took 0.109
+[2017.05.18-11.53.35:152][745]BlueprintLog: New page: HeroBP 컴파일
+[2017.05.18-12.02.29:655][510]LogSavePackage: Save=72.21ms
+[2017.05.18-12.02.29:655][510]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Baselevel_Auto7FB8AA23A4DEEB501440C8D821244522C.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Levels/Baselevel_Auto7.umap'
+[2017.05.18-12.02.29:657][510]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Levels/Baselevel_Auto7.umap
+[2017.05.18-12.02.29:659][510]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Baselevel' took 0.246
+[2017.05.18-12.02.29:659][510]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.246
+[2017.05.18-12.02.29:661][510]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Hero/HeroBP] ([1] browsable assets)...
+[2017.05.18-12.02.29:684][510]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Hero/HeroBP.HeroBP]
+[2017.05.18-12.02.29:684][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hero/HeroBP]
+[2017.05.18-12.02.29:684][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2017.05.18-12.02.29:801][510]LogSavePackage: Save=53.34ms
+[2017.05.18-12.02.29:801][510]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HeroBP_Auto7B91ED70A4523BD0BE52E1484B2ED60D4.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto7.uasset'
+[2017.05.18-12.02.29:803][510]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto7.uasset
+[2017.05.18-12.02.29:834][510]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/HUD] ([1] browsable assets)...
+[2017.05.18-12.02.29:834][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HUD]
+[2017.05.18-12.02.29:834][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/UI/HUD_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2017.05.18-12.02.29:943][510]LogSavePackage: Save=107.11ms
+[2017.05.18-12.02.29:943][510]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HUD_Auto7161E0F944479CAB3C69E4A96694C3AEE.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/UI/HUD_Auto7.uasset'
+[2017.05.18-12.02.29:952][510]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/UI/HUD_Auto7.uasset
+[2017.05.18-12.02.29:952][510]LogFileHelpers: Auto-saving content packages took 0.292
+[2017.05.18-12.23.39:373][273]LogEditorTransaction: Undo 앵커 이동
+[2017.05.18-12.23.41:325][273]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.18-12.23.41:336][273]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.05.18-12.23.41:341][273]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.05.18-12.25.57:766][652]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Baselevel' took 0.030
+[2017.05.18-12.25.57:768][652]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/HUD] ([1] browsable assets)...
+[2017.05.18-12.25.57:768][652]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HUD]
+[2017.05.18-12.25.57:768][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/UI/HUD_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2017.05.18-12.25.57:783][652]LogSavePackage: Save=12.13ms
+[2017.05.18-12.25.57:783][652]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HUD_Auto83CF2D0064E3196B2890E1F98D5B9BAD6.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/UI/HUD_Auto8.uasset'
+[2017.05.18-12.25.57:786][652]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/UI/HUD_Auto8.uasset
+[2017.05.18-12.25.57:786][652]LogFileHelpers: Auto-saving content packages took 0.019
+[2017.05.18-12.26.25:825][441]BlueprintLog: New page: HUD 컴파일
+[2017.05.18-12.26.36:981][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/UI/HUD.uasset" SILENT=true
+[2017.05.18-12.26.36:995][688]LogSavePackage: Save=12.89ms
+[2017.05.18-12.26.36:995][688]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HUD742FE21A4CDE12737F068C9A2E9F921D.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/UI/HUD.uasset'
+[2017.05.18-12.26.37:000][688]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/UI/HUD.uasset
+[2017.05.18-12.27.59:118][710]BlueprintLog: New page: HUD 컴파일
+[2017.05.18-12.35.54:927][ 44]LogEditorTransaction: Undo 노드 이동
+[2017.05.18-12.35.54:940][ 44]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.18-12.35.54:960][ 44]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.05.18-12.35.54:964][ 44]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.05.18-12.39.25:740][326]BlueprintLog: New page: HUD 컴파일
+[2017.05.18-12.39.29:337][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/UI/HUD.uasset" SILENT=true
+[2017.05.18-12.39.29:424][525]LogSavePackage: Save=20.12ms
+[2017.05.18-12.39.29:424][525]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HUDDD2D2F054087DE435627C3BCB3383D1B.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/UI/HUD.uasset'
+[2017.05.18-12.39.29:429][525]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/UI/HUD.uasset
+[2017.05.18-12.41.35:783][746]BlueprintLog: New page: ShooterGameMode 컴파일
+[2017.05.18-12.42.00:169][616]BlueprintLog: New page: ShooterGameMode 컴파일
+[2017.05.18-12.42.37:365][ 40]LogEditorTransaction: Undo 노드 추가
+[2017.05.18-12.42.37:385][ 40]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.18-12.42.37:388][ 40]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.05.18-12.42.37:391][ 40]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.05.18-12.42.52:921][662]LogEditorTransaction: Undo 노드 추가
+[2017.05.18-12.42.52:938][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.18-12.42.52:940][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.05.18-12.42.52:944][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.05.18-12.43.08:455][292]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-12.43.40:870][562]BlueprintLog: New page: ShooterGameMode 컴파일
+[2017.05.18-12.43.42:548][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShooterGameMode" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/ShooterGameMode.uasset" SILENT=true
+[2017.05.18-12.43.42:653][636]LogSavePackage: Save=34.95ms
+[2017.05.18-12.43.42:653][636]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/ShooterGameMode4B1DABD7448CEB9FAD6CEDAB030379B0.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/ShooterGameMode.uasset'
+[2017.05.18-12.43.42:656][636]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/ShooterGameMode.uasset
+[2017.05.18-12.44.26:083][798]LogSavePackage: Save=57.83ms
+[2017.05.18-12.44.26:083][798]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Baselevel_Auto91735760944CB3CA5E109CEA41F381DFE.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Levels/Baselevel_Auto9.umap'
+[2017.05.18-12.44.26:087][798]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Levels/Baselevel_Auto9.umap
+[2017.05.18-12.44.26:091][798]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Baselevel' took 0.103
+[2017.05.18-12.44.26:110][798]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.103
+[2017.05.18-12.44.26:112][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Hero/HeroBP] ([1] browsable assets)...
+[2017.05.18-12.44.26:128][798]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Hero/HeroBP.HeroBP]
+[2017.05.18-12.44.26:128][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hero/HeroBP]
+[2017.05.18-12.44.26:128][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2017.05.18-12.44.26:222][798]LogSavePackage: Save=72.08ms
+[2017.05.18-12.44.26:222][798]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HeroBP_Auto996CC700F46FD222581036D9F0408BF44.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto9.uasset'
+[2017.05.18-12.44.26:224][798]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto9.uasset
+[2017.05.18-12.44.26:224][798]LogFileHelpers: Auto-saving content packages took 0.113
+[2017.05.18-12.47.15:280][706]BlueprintLog: New page: HeroBP 컴파일
+[2017.05.18-12.47.49:526][617]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-12.47.49:545][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-12.47.49:545][617]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 6:47:49)
+[2017.05.18-12.47.49:545][617]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-12.47.49:566][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020762s)
+[2017.05.18-12.47.49:567][617]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-12.47.49:576][617]LogPlayLevel: PIE: World Init took: (0.009826s)
+[2017.05.18-12.47.49:576][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.030864s)
+[2017.05.18-12.47.49:852][617]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-12.47.52:274][617]LogInit: FAudioDevice initialized.
+[2017.05.18-12.47.52:396][617]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-12.47.52:401][617]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-21.47.52
+[2017.05.18-12.47.52:402][617]LogWorld: Bringing up level for play took: 0.003452
+[2017.05.18-12.47.52:523][617]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 2.653
+[2017.05.18-12.48.26:539][ 99]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.48.26:587][ 99]LogTemp:Display: Added material ShaderMap 0x000000013DAEBC80 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.26:706][ 99]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000013DAEBC80
+[2017.05.18-12.48.30:149][ 99]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.48.30:150][ 99]LogTemp:Display: Added material ShaderMap 0x000000005B334800 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.30:160][ 99]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000005B334800
+[2017.05.18-12.48.30:160][ 99]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.48.40:411][525]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.48.40:412][525]LogTemp:Display: Added material ShaderMap 0x000000014E391600 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.40:422][525]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014E391600
+[2017.05.18-12.48.40:422][525]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.48.43:822][728]LogTemp:Display: Finished compile of shader map 0x000000013DAEBC80
+[2017.05.18-12.48.43:822][728]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000013DAEBC80, marking material BulletMeterial as finished
+[2017.05.18-12.48.43:822][728]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.48.44:534][770]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.48.44:543][770]LogTemp:Display: Added material ShaderMap 0x000000010DA40100 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.44:554][770]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000010DA40100
+[2017.05.18-12.48.44:554][770]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.48.45:366][821]LogTemp:Display: Finished compile of shader map 0x000000014E391600
+[2017.05.18-12.48.45:366][821]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014E391600, marking material BulletMeterial as finished
+[2017.05.18-12.48.45:366][821]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.48.47:728][965]LogTemp:Display: Finished compile of shader map 0x000000010DA40100
+[2017.05.18-12.48.47:728][965]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000010DA40100, marking material BulletMeterial as finished
+[2017.05.18-12.48.47:728][965]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.48.47:793][966]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 79 instructions
+[2017.05.18-12.48.47:793][966]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.48.47:793][966]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.48.48:243][986]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.48.48:243][986]LogTemp:Display: Added material ShaderMap 0x000000014A537900 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.48:254][986]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014A537900
+[2017.05.18-12.48.48:254][986]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.48.48:255][986]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.05.18-12.48.48:256][986]LogTemp:Display: Added material ShaderMap 0x000000014AFDF580 with Material 0x0000000143D53100 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.48:258][986]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_0, GameThreadShaderMap 0x000000014AFDF580
+[2017.05.18-12.48.50:520][104]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.48.50:520][104]LogTemp:Display: Added material ShaderMap 0x000000014E5D8F00 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.50:531][104]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014E5D8F00
+[2017.05.18-12.48.50:531][104]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.48.50:535][104]LogTemp:Display: Removed shader map 0x000000014AFDF580 from material 0x0000000143D53100
+[2017.05.18-12.48.50:594][104]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.05.18-12.48.50:595][104]LogTemp:Display: Added material ShaderMap 0x000000014E1BE780 with Material 0x000000010FFA0100 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.50:598][104]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_0, GameThreadShaderMap 0x000000014E1BE780
+[2017.05.18-12.48.50:662][107]LogTemp:Display: Finished compile of shader map 0x000000014AFDF580
+[2017.05.18-12.48.50:975][121]LogTemp:Display: Finished compile of shader map 0x000000014A537900
+[2017.05.18-12.48.50:975][121]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014A537900, marking material BulletMeterial as finished
+[2017.05.18-12.48.50:975][121]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.48.51:826][159]LogTemp:Display: Finished compile of shader map 0x000000014E5D8F00
+[2017.05.18-12.48.51:826][159]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014E5D8F00, marking material BulletMeterial as finished
+[2017.05.18-12.48.51:826][159]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.48.51:842][160]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 77 instructions
+[2017.05.18-12.48.51:842][160]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.48.51:843][160]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.48.52:534][164]LogTemp:Display: Finished compile of shader map 0x000000014E1BE780
+[2017.05.18-12.48.52:534][164]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant4Vector_0 complete, GameThreadShaderMap 0x000000014E1BE780, marking material FMatExpressionPreview MaterialExpressionConstant4Vector_0 as finished
+[2017.05.18-12.48.52:534][164]LogTemp:Display: Marking material as finished 0x000000010FFA0100
+[2017.05.18-12.48.55:076][334]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.05.18-12.48.55:077][334]LogTemp:Display: Added material ShaderMap 0x000000014E6AEB00 with Material 0x0000000062275C00 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.55:080][334]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_0, GameThreadShaderMap 0x000000014E6AEB00
+[2017.05.18-12.48.55:083][334]LogTemp:Display: Removed shader map 0x000000014E6AEB00 from material 0x0000000062275C00
+[2017.05.18-12.48.55:105][334]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.05.18-12.48.55:106][334]LogTemp:Display: Added material ShaderMap 0x000000014E6AD600 with Material 0x0000000062275C00 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.55:109][334]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_0, GameThreadShaderMap 0x000000014E6AD600
+[2017.05.18-12.48.55:112][334]LogTemp:Display: Removed shader map 0x000000014E6AD600 from material 0x0000000062275C00
+[2017.05.18-12.48.55:134][334]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.05.18-12.48.55:135][334]LogTemp:Display: Added material ShaderMap 0x000000014E6AC100 with Material 0x0000000062275C00 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.55:138][334]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_0, GameThreadShaderMap 0x000000014E6AC100
+[2017.05.18-12.48.55:141][334]LogTemp:Display: Removed shader map 0x000000014E6AC100 from material 0x0000000062275C00
+[2017.05.18-12.48.55:178][334]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.05.18-12.48.55:178][334]LogTemp:Display: Added material ShaderMap 0x000000014B1BEB00 with Material 0x0000000062275C00 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.55:181][334]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_0, GameThreadShaderMap 0x000000014B1BEB00
+[2017.05.18-12.48.55:188][334]LogTemp:Display: Removed shader map 0x000000014B1BEB00 from material 0x0000000062275C00
+[2017.05.18-12.48.55:210][334]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.05.18-12.48.55:210][334]LogTemp:Display: Added material ShaderMap 0x000000014B1BD280 with Material 0x0000000062275C00 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.55:213][334]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_0, GameThreadShaderMap 0x000000014B1BD280
+[2017.05.18-12.48.55:520][349]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.48.55:521][349]LogTemp:Display: Added material ShaderMap 0x000000014E697580 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.55:531][349]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014E697580
+[2017.05.18-12.48.55:532][349]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.48.55:534][349]LogTemp:Display: Removed shader map 0x000000014B1BD280 from material 0x0000000062275C00
+[2017.05.18-12.48.55:558][349]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.05.18-12.48.55:559][349]LogTemp:Display: Added material ShaderMap 0x000000014E900F00 with Material 0x0000000145B0AB00 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.55:561][349]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_0, GameThreadShaderMap 0x000000014E900F00
+[2017.05.18-12.48.55:579][350]LogTemp:Display: Finished compile of shader map 0x000000014B1BEB00
+[2017.05.18-12.48.56:096][369]LogTemp:Display: Removed shader map 0x000000014E900F00 from material 0x0000000145B0AB00
+[2017.05.18-12.48.56:156][369]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.05.18-12.48.56:156][369]LogTemp:Display: Added material ShaderMap 0x000000014B1BE780 with Material 0x000000013A405000 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.56:159][369]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_0, GameThreadShaderMap 0x000000014B1BE780
+[2017.05.18-12.48.56:194][370]LogTemp:Display: Removed shader map 0x000000014B1BE780 from material 0x000000013A405000
+[2017.05.18-12.48.56:264][370]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.05.18-12.48.56:265][370]LogTemp:Display: Added material ShaderMap 0x000000014E1BDD00 with Material 0x0000000147AAE200 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.56:267][370]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_0, GameThreadShaderMap 0x000000014E1BDD00
+[2017.05.18-12.48.56:273][370]LogTemp:Display: Removed shader map 0x000000014E1BDD00 from material 0x0000000147AAE200
+[2017.05.18-12.48.56:348][370]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.05.18-12.48.56:349][370]LogTemp:Display: Added material ShaderMap 0x000000014E88AE80 with Material 0x000000014C950A00 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.56:351][370]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_0, GameThreadShaderMap 0x000000014E88AE80
+[2017.05.18-12.48.56:358][370]LogTemp:Display: Removed shader map 0x000000014E88AE80 from material 0x000000014C950A00
+[2017.05.18-12.48.56:385][370]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.05.18-12.48.56:386][370]LogTemp:Display: Added material ShaderMap 0x000000014E889600 with Material 0x000000014C950A00 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.56:389][370]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_0, GameThreadShaderMap 0x000000014E889600
+[2017.05.18-12.48.56:417][370]LogTemp:Display: Finished compile of shader map 0x000000014B1BD280
+[2017.05.18-12.48.56:915][392]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.48.56:916][392]LogTemp:Display: Added material ShaderMap 0x000000014B4CFC80 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.56:927][392]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014B4CFC80
+[2017.05.18-12.48.56:938][392]LogMaterial: 0.01 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.48.56:945][392]LogTemp:Display: Removed shader map 0x000000014E889600 from material 0x000000014C950A00
+[2017.05.18-12.48.56:966][392]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.05.18-12.48.56:967][392]LogTemp:Display: Added material ShaderMap 0x000000014B452E80 with Material 0x000000014D3B8100 to ShaderMapsBeingCompiled
+[2017.05.18-12.48.56:987][392]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_0, GameThreadShaderMap 0x000000014B452E80
+[2017.05.18-12.48.57:021][393]LogTemp:Display: Finished compile of shader map 0x000000014E697580
+[2017.05.18-12.48.57:021][393]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014E697580, marking material BulletMeterial as finished
+[2017.05.18-12.48.57:021][393]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.48.57:187][398]LogTemp:Display: Finished compile of shader map 0x000000014E889600
+[2017.05.18-12.48.59:382][516]LogTemp:Display: Finished compile of shader map 0x000000014B4CFC80
+[2017.05.18-12.48.59:382][516]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014B4CFC80, marking material BulletMeterial as finished
+[2017.05.18-12.48.59:382][516]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.48.59:397][517]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 79 instructions
+[2017.05.18-12.48.59:397][517]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.48.59:397][517]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.48.59:651][535]LogTemp:Display: Finished compile of shader map 0x000000014B452E80
+[2017.05.18-12.48.59:651][535]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant4Vector_0 complete, GameThreadShaderMap 0x000000014B452E80, marking material FMatExpressionPreview MaterialExpressionConstant4Vector_0 as finished
+[2017.05.18-12.48.59:651][535]LogTemp:Display: Marking material as finished 0x000000014D3B8100
+[2017.05.18-12.49.01:726][686]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.49.01:727][686]LogTemp:Display: Added material ShaderMap 0x000000014AFDEE80 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.49.01:737][686]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014AFDEE80
+[2017.05.18-12.49.01:737][686]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.49.03:992][816]LogTemp:Display: Finished compile of shader map 0x000000014AFDEE80
+[2017.05.18-12.49.03:992][816]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014AFDEE80, marking material BulletMeterial as finished
+[2017.05.18-12.49.03:992][816]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.49.04:007][817]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 80 instructions
+[2017.05.18-12.49.04:007][817]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.49.04:007][817]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.49.08:141][100]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.49.08:142][100]LogTemp:Display: Added material ShaderMap 0x000000014AFDD980 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.49.08:152][100]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014AFDD980
+[2017.05.18-12.49.08:152][100]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.49.10:752][258]LogTemp:Display: Finished compile of shader map 0x000000014AFDD980
+[2017.05.18-12.49.10:752][258]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014AFDD980, marking material BulletMeterial as finished
+[2017.05.18-12.49.10:752][258]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.49.10:767][259]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 80 instructions
+[2017.05.18-12.49.10:767][259]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.49.10:767][259]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.49.12:668][399]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.49.12:669][399]LogTemp:Display: Added material ShaderMap 0x000000014AFDE080 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.49.12:679][399]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014AFDE080
+[2017.05.18-12.49.12:679][399]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.49.15:294][559]LogTemp:Display: Finished compile of shader map 0x000000014AFDE080
+[2017.05.18-12.49.15:294][559]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014AFDE080, marking material BulletMeterial as finished
+[2017.05.18-12.49.15:294][559]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.49.15:309][560]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 80 instructions
+[2017.05.18-12.49.15:309][560]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.49.15:309][560]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.49.17:824][746]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.49.17:825][746]LogTemp:Display: Added material ShaderMap 0x000000014AFDF900 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.49.17:834][746]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014AFDF900
+[2017.05.18-12.49.17:834][746]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.49.20:671][913]LogTemp:Display: Finished compile of shader map 0x000000014AFDF900
+[2017.05.18-12.49.20:671][913]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014AFDF900, marking material BulletMeterial as finished
+[2017.05.18-12.49.20:671][913]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.49.20:686][914]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 80 instructions
+[2017.05.18-12.49.20:686][914]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.49.20:686][914]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.49.24:043][160]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.49.24:043][160]LogTemp:Display: Added material ShaderMap 0x0000000146E65280 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.49.24:053][160]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x0000000146E65280
+[2017.05.18-12.49.24:053][160]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.49.27:035][340]LogTemp:Display: Finished compile of shader map 0x0000000146E65280
+[2017.05.18-12.49.27:035][340]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x0000000146E65280, marking material BulletMeterial as finished
+[2017.05.18-12.49.27:035][340]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.49.27:051][341]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 80 instructions
+[2017.05.18-12.49.27:051][341]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.49.27:051][341]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.49.27:918][404]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.49.27:919][404]LogTemp:Display: Added material ShaderMap 0x000000014B4CD980 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.49.27:929][404]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014B4CD980
+[2017.05.18-12.49.27:929][404]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.49.30:333][540]LogTemp:Display: Finished compile of shader map 0x000000014B4CD980
+[2017.05.18-12.49.30:333][540]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014B4CD980, marking material BulletMeterial as finished
+[2017.05.18-12.49.30:333][540]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.49.30:348][541]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 80 instructions
+[2017.05.18-12.49.30:348][541]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.49.30:348][541]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.49.30:609][560]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.49.30:609][560]LogTemp:Display: Added material ShaderMap 0x000000014A537900 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.49.30:619][560]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014A537900
+[2017.05.18-12.49.30:619][560]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.49.33:903][764]LogTemp:Display: Finished compile of shader map 0x000000014A537900
+[2017.05.18-12.49.33:903][764]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014A537900, marking material BulletMeterial as finished
+[2017.05.18-12.49.33:903][764]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.49.33:919][765]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 85 instructions
+[2017.05.18-12.49.33:919][765]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.49.33:919][765]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.49.37:606][ 35]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.49.37:607][ 35]LogTemp:Display: Added material ShaderMap 0x0000000146E66780 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.49.37:617][ 35]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x0000000146E66780
+[2017.05.18-12.49.37:617][ 35]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.49.40:540][212]LogTemp:Display: Finished compile of shader map 0x0000000146E66780
+[2017.05.18-12.49.40:540][212]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x0000000146E66780, marking material BulletMeterial as finished
+[2017.05.18-12.49.40:540][212]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.49.40:555][213]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 80 instructions
+[2017.05.18-12.49.40:556][213]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.49.40:556][213]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.49.40:803][231]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.49.40:804][231]LogTemp:Display: Added material ShaderMap 0x000000014A535980 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.49.40:813][231]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014A535980
+[2017.05.18-12.49.40:813][231]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.49.43:319][371]LogTemp:Display: Finished compile of shader map 0x000000014A535980
+[2017.05.18-12.49.43:319][371]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014A535980, marking material BulletMeterial as finished
+[2017.05.18-12.49.43:319][371]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.49.43:345][372]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 80 instructions
+[2017.05.18-12.49.43:346][372]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.49.43:346][372]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.49.43:731][400]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.49.43:732][400]LogTemp:Display: Added material ShaderMap 0x000000014AFDCB80 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.49.43:742][400]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014AFDCB80
+[2017.05.18-12.49.43:742][400]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.49.46:205][544]LogTemp:Display: Finished compile of shader map 0x000000014AFDCB80
+[2017.05.18-12.49.46:205][544]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014AFDCB80, marking material BulletMeterial as finished
+[2017.05.18-12.49.46:205][544]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.49.46:220][545]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 80 instructions
+[2017.05.18-12.49.46:220][545]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.49.46:220][545]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.49.52:869][ 34]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.49.52:869][ 34]LogTemp:Display: Added material ShaderMap 0x000000014A534480 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.49.52:879][ 34]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014A534480
+[2017.05.18-12.49.52:879][ 34]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.49.55:752][211]LogTemp:Display: Finished compile of shader map 0x000000014A534480
+[2017.05.18-12.49.55:752][211]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014A534480, marking material BulletMeterial as finished
+[2017.05.18-12.49.55:752][211]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.49.55:767][212]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 80 instructions
+[2017.05.18-12.49.55:767][212]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.49.55:767][212]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.49.58:899][445]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.49.58:899][445]LogTemp:Display: Added material ShaderMap 0x000000014AFDC800 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.49.58:909][445]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014AFDC800
+[2017.05.18-12.49.58:909][445]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.50.02:060][642]LogTemp:Display: Finished compile of shader map 0x000000014AFDC800
+[2017.05.18-12.50.02:060][642]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014AFDC800, marking material BulletMeterial as finished
+[2017.05.18-12.50.02:060][642]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.50.02:076][643]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 80 instructions
+[2017.05.18-12.50.02:076][643]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.50.02:076][643]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.50.06:532][948]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.50.06:533][948]LogTemp:Display: Added material ShaderMap 0x0000000106981D00 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.06:543][948]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x0000000106981D00
+[2017.05.18-12.50.06:543][948]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.50.08:773][ 70]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.50.08:773][ 70]LogTemp:Display: Added material ShaderMap 0x00000000E4AE9600 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.08:784][ 70]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x00000000E4AE9600
+[2017.05.18-12.50.08:784][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.50.08:786][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.18-12.50.08:786][ 70]LogTemp:Display: Added material ShaderMap 0x000000014B4CC800 with Material 0x00000000D7CF7D00 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.08:789][ 70]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_1, GameThreadShaderMap 0x000000014B4CC800
+[2017.05.18-12.50.09:441][ 95]LogTemp:Display: Finished compile of shader map 0x0000000106981D00
+[2017.05.18-12.50.09:441][ 95]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x0000000106981D00, marking material BulletMeterial as finished
+[2017.05.18-12.50.09:441][ 95]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.50.10:803][144]LogTemp:Display: Finished compile of shader map 0x000000014B4CC800
+[2017.05.18-12.50.10:803][144]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant4Vector_1 complete, GameThreadShaderMap 0x000000014B4CC800, marking material FMatExpressionPreview MaterialExpressionConstant4Vector_1 as finished
+[2017.05.18-12.50.10:803][144]LogTemp:Display: Marking material as finished 0x00000000D7CF7D00
+[2017.05.18-12.50.10:907][149]LogTemp:Display: Finished compile of shader map 0x00000000E4AE9600
+[2017.05.18-12.50.10:907][149]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x00000000E4AE9600, marking material BulletMeterial as finished
+[2017.05.18-12.50.10:907][149]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.50.10:922][150]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 80 instructions
+[2017.05.18-12.50.10:922][150]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.50.10:922][150]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.50.11:318][178]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.50.11:319][178]LogTemp:Display: Added material ShaderMap 0x000000014AFDF900 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.11:329][178]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014AFDF900
+[2017.05.18-12.50.11:329][178]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.50.11:357][178]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.18-12.50.11:357][178]LogTemp:Display: Added material ShaderMap 0x0000000146E65280 with Material 0x000000012BCBC100 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.11:360][178]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_1, GameThreadShaderMap 0x0000000146E65280
+[2017.05.18-12.50.14:174][342]LogTemp:Display: Finished compile of shader map 0x0000000146E65280
+[2017.05.18-12.50.14:174][342]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant4Vector_1 complete, GameThreadShaderMap 0x0000000146E65280, marking material FMatExpressionPreview MaterialExpressionConstant4Vector_1 as finished
+[2017.05.18-12.50.14:174][342]LogTemp:Display: Marking material as finished 0x000000012BCBC100
+[2017.05.18-12.50.14:395][356]LogTemp:Display: Finished compile of shader map 0x000000014AFDF900
+[2017.05.18-12.50.14:395][356]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014AFDF900, marking material BulletMeterial as finished
+[2017.05.18-12.50.14:395][356]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.50.14:411][357]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 80 instructions
+[2017.05.18-12.50.14:411][357]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.50.14:411][357]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.50.17:775][551]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.18-12.50.17:776][551]LogTemp:Display: Added material ShaderMap 0x000000012DED7900 with Material 0x000000014C953700 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.17:778][551]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_1, GameThreadShaderMap 0x000000012DED7900
+[2017.05.18-12.50.17:800][552]LogTemp:Display: Removed shader map 0x000000012DED7900 from material 0x000000014C953700
+[2017.05.18-12.50.17:822][552]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.18-12.50.17:849][552]LogTemp:Display: Added material ShaderMap 0x000000012DED5980 with Material 0x000000012DBDEE00 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.17:851][552]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_1, GameThreadShaderMap 0x000000012DED5980
+[2017.05.18-12.50.17:853][552]LogTemp:Display: Removed shader map 0x000000012DED5980 from material 0x000000012DBDEE00
+[2017.05.18-12.50.17:941][552]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.18-12.50.17:942][552]LogTemp:Display: Added material ShaderMap 0x000000012DED4480 with Material 0x000000014C950400 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.17:944][552]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_1, GameThreadShaderMap 0x000000012DED4480
+[2017.05.18-12.50.17:947][552]LogTemp:Display: Removed shader map 0x000000012DED4480 from material 0x000000014C950400
+[2017.05.18-12.50.17:969][552]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.18-12.50.17:970][552]LogTemp:Display: Added material ShaderMap 0x000000014BC9EE80 with Material 0x000000014C950400 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.17:972][552]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_1, GameThreadShaderMap 0x000000014BC9EE80
+[2017.05.18-12.50.17:976][552]LogTemp:Display: Removed shader map 0x000000014BC9EE80 from material 0x000000014C950400
+[2017.05.18-12.50.18:051][552]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.18-12.50.18:052][552]LogTemp:Display: Added material ShaderMap 0x000000014BC9D980 with Material 0x000000014C950400 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.18:054][552]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_1, GameThreadShaderMap 0x000000014BC9D980
+[2017.05.18-12.50.18:058][552]LogTemp:Display: Removed shader map 0x000000014BC9D980 from material 0x000000014C950400
+[2017.05.18-12.50.18:112][552]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.18-12.50.18:113][552]LogTemp:Display: Added material ShaderMap 0x000000014BC9C100 with Material 0x000000014C950400 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.18:116][552]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_1, GameThreadShaderMap 0x000000014BC9C100
+[2017.05.18-12.50.18:122][552]LogTemp:Display: Removed shader map 0x000000014BC9C100 from material 0x000000014C950400
+[2017.05.18-12.50.18:144][552]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.18-12.50.18:145][552]LogTemp:Display: Added material ShaderMap 0x0000000148D4EB00 with Material 0x000000014D3B9600 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.18:147][552]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_1, GameThreadShaderMap 0x0000000148D4EB00
+[2017.05.18-12.50.18:151][552]LogTemp:Display: Removed shader map 0x0000000148D4EB00 from material 0x000000014D3B9600
+[2017.05.18-12.50.18:173][552]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.18-12.50.18:173][552]LogTemp:Display: Added material ShaderMap 0x0000000148D4D600 with Material 0x000000014D3B9600 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.18:176][552]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_1, GameThreadShaderMap 0x0000000148D4D600
+[2017.05.18-12.50.18:180][552]LogTemp:Display: Removed shader map 0x0000000148D4D600 from material 0x000000014D3B9600
+[2017.05.18-12.50.18:293][552]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.18-12.50.18:294][552]LogTemp:Display: Added material ShaderMap 0x0000000148D4C100 with Material 0x000000014D3B9600 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.18:296][552]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_1, GameThreadShaderMap 0x0000000148D4C100
+[2017.05.18-12.50.18:298][552]LogTemp:Display: Finished compile of shader map 0x000000014BC9EE80
+[2017.05.18-12.50.18:298][552]LogTemp:Display: Finished compile of shader map 0x000000012DED5980
+[2017.05.18-12.50.18:299][552]LogTemp:Display: Finished compile of shader map 0x000000012DED7900
+[2017.05.18-12.50.18:299][552]LogTemp:Display: Finished compile of shader map 0x000000012DED4480
+[2017.05.18-12.50.18:299][552]LogTemp:Display: Finished compile of shader map 0x000000014BC9C100
+[2017.05.18-12.50.18:332][554]LogTemp:Display: Finished compile of shader map 0x0000000148D4EB00
+[2017.05.18-12.50.18:660][572]LogTemp:Display: Finished compile of shader map 0x0000000148D4C100
+[2017.05.18-12.50.18:660][572]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant4Vector_1 complete, GameThreadShaderMap 0x0000000148D4C100, marking material FMatExpressionPreview MaterialExpressionConstant4Vector_1 as finished
+[2017.05.18-12.50.18:660][572]LogTemp:Display: Marking material as finished 0x000000014D3B9600
+[2017.05.18-12.50.19:147][603]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.18-12.50.19:148][603]LogTemp:Display: Added material ShaderMap 0x00000000E4ACB200 with Material 0x00000000A2830A00 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.19:150][603]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_1, GameThreadShaderMap 0x00000000E4ACB200
+[2017.05.18-12.50.19:153][603]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.50.19:154][603]LogTemp:Display: Added material ShaderMap 0x00000000E4AC8F00 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.19:164][603]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x00000000E4AC8F00
+[2017.05.18-12.50.19:164][603]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.50.19:166][603]LogTemp:Display: Removed shader map 0x00000000E4ACB200 from material 0x00000000A2830A00
+[2017.05.18-12.50.19:189][603]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.18-12.50.19:190][603]LogTemp:Display: Added material ShaderMap 0x000000012DED6080 with Material 0x0000000143D53100 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.19:192][603]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_1, GameThreadShaderMap 0x000000012DED6080
+[2017.05.18-12.50.19:357][610]LogTemp:Display: Finished compile of shader map 0x00000000E4ACB200
+[2017.05.18-12.50.20:693][670]LogTemp:Display: Finished compile of shader map 0x000000012DED6080
+[2017.05.18-12.50.20:693][670]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant4Vector_1 complete, GameThreadShaderMap 0x000000012DED6080, marking material FMatExpressionPreview MaterialExpressionConstant4Vector_1 as finished
+[2017.05.18-12.50.20:693][670]LogTemp:Display: Marking material as finished 0x0000000143D53100
+[2017.05.18-12.50.20:826][677]LogTemp:Display: Finished compile of shader map 0x00000000E4AC8F00
+[2017.05.18-12.50.20:826][677]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x00000000E4AC8F00, marking material BulletMeterial as finished
+[2017.05.18-12.50.20:826][677]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.50.20:841][678]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 81 instructions
+[2017.05.18-12.50.20:841][678]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.50.20:842][678]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.50.38:292][931]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.50.38:293][931]LogTemp:Display: Added material ShaderMap 0x000000014B450F00 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.38:303][931]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014B450F00
+[2017.05.18-12.50.38:303][931]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.50.39:508][977]LogTemp:Display: Finished compile of shader map 0x000000014B450F00
+[2017.05.18-12.50.39:508][977]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014B450F00, marking material BulletMeterial as finished
+[2017.05.18-12.50.39:508][977]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.50.39:524][978]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 80 instructions
+[2017.05.18-12.50.39:524][978]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.50.39:524][978]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.50.42:865][208]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.50.42:866][208]LogTemp:Display: Added material ShaderMap 0x0000000107F30100 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.42:876][208]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x0000000107F30100
+[2017.05.18-12.50.42:876][208]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.50.42:878][208]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2017.05.18-12.50.42:878][208]LogTemp:Display: Added material ShaderMap 0x00000000E497EB00 with Material 0x000000014B645C00 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.42:881][208]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_2, GameThreadShaderMap 0x00000000E497EB00
+[2017.05.18-12.50.44:130][251]LogTemp:Display: Finished compile of shader map 0x00000000E497EB00
+[2017.05.18-12.50.44:130][251]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant4Vector_2 complete, GameThreadShaderMap 0x00000000E497EB00, marking material FMatExpressionPreview MaterialExpressionConstant4Vector_2 as finished
+[2017.05.18-12.50.44:130][251]LogTemp:Display: Marking material as finished 0x000000014B645C00
+[2017.05.18-12.50.44:331][263]LogTemp:Display: Finished compile of shader map 0x0000000107F30100
+[2017.05.18-12.50.44:331][263]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x0000000107F30100, marking material BulletMeterial as finished
+[2017.05.18-12.50.44:331][263]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.50.44:347][264]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 80 instructions
+[2017.05.18-12.50.44:347][264]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.50.44:347][264]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.50.45:442][333]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.50.45:443][333]LogTemp:Display: Added material ShaderMap 0x0000000146E66780 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.45:452][333]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x0000000146E66780
+[2017.05.18-12.50.45:453][333]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.50.46:539][372]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.50.46:539][372]LogTemp:Display: Added material ShaderMap 0x00000000E4906780 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.46:549][372]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x00000000E4906780
+[2017.05.18-12.50.46:549][372]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.50.46:943][373]LogTemp:Display: Finished compile of shader map 0x0000000146E66780
+[2017.05.18-12.50.46:943][373]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x0000000146E66780, marking material BulletMeterial as finished
+[2017.05.18-12.50.46:943][373]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.50.47:790][409]LogTemp:Display: Finished compile of shader map 0x00000000E4906780
+[2017.05.18-12.50.47:790][409]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x00000000E4906780, marking material BulletMeterial as finished
+[2017.05.18-12.50.47:791][409]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.50.47:806][410]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 80 instructions
+[2017.05.18-12.50.47:807][410]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.50.47:807][410]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.50.49:307][517]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.50.49:308][517]LogTemp:Display: Added material ShaderMap 0x000000014AFDD600 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.50.49:317][517]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014AFDD600
+[2017.05.18-12.50.49:318][517]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.50.50:494][571]LogTemp:Display: Finished compile of shader map 0x000000014AFDD600
+[2017.05.18-12.50.50:494][571]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014AFDD600, marking material BulletMeterial as finished
+[2017.05.18-12.50.50:494][571]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.50.50:510][572]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 80 instructions
+[2017.05.18-12.50.50:510][572]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.50.50:510][572]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.51.07:288][781]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.51.07:289][781]LogTemp:Display: Added material ShaderMap 0x000000014AFDF200 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.51.07:298][781]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014AFDF200
+[2017.05.18-12.51.07:299][781]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.51.08:573][843]LogTemp:Display: Finished compile of shader map 0x000000014AFDF200
+[2017.05.18-12.51.08:574][843]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014AFDF200, marking material BulletMeterial as finished
+[2017.05.18-12.51.08:574][843]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.51.08:589][844]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 80 instructions
+[2017.05.18-12.51.08:589][844]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.51.08:589][844]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.51.10:444][977]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.51.10:444][977]LogTemp:Display: Added material ShaderMap 0x000000014AFDF580 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.51.10:454][977]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014AFDF580
+[2017.05.18-12.51.10:454][977]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.51.10:480][977]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.05.18-12.51.10:481][977]LogTemp:Display: Added material ShaderMap 0x00000001373D0100 with Material 0x0000000143D50700 to ShaderMapsBeingCompiled
+[2017.05.18-12.51.10:483][977]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_0, GameThreadShaderMap 0x00000001373D0100
+[2017.05.18-12.51.11:746][ 25]LogTemp:Display: Finished compile of shader map 0x000000014AFDF580
+[2017.05.18-12.51.11:746][ 25]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014AFDF580, marking material BulletMeterial as finished
+[2017.05.18-12.51.11:746][ 25]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.51.11:768][ 26]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 81 instructions
+[2017.05.18-12.51.11:768][ 26]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.51.11:768][ 26]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.51.11:813][ 28]LogTemp:Display: Finished compile of shader map 0x00000001373D0100
+[2017.05.18-12.51.11:813][ 28]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant4Vector_0 complete, GameThreadShaderMap 0x00000001373D0100, marking material FMatExpressionPreview MaterialExpressionConstant4Vector_0 as finished
+[2017.05.18-12.51.11:813][ 28]LogTemp:Display: Marking material as finished 0x0000000143D50700
+[2017.05.18-12.51.15:830][169]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.51.15:831][169]LogTemp:Display: Added material ShaderMap 0x000000014D361980 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.51.15:841][169]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014D361980
+[2017.05.18-12.51.15:841][169]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.51.16:896][189]LogTemp:Display: Finished compile of shader map 0x000000014D361980
+[2017.05.18-12.51.16:896][189]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014D361980, marking material BulletMeterial as finished
+[2017.05.18-12.51.16:896][189]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.51.16:912][190]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 81 instructions
+[2017.05.18-12.51.16:912][190]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.51.16:912][190]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.51.18:642][312]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.51.18:643][312]LogTemp:Display: Added material ShaderMap 0x000000014AFDCF00 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.51.18:652][312]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014AFDCF00
+[2017.05.18-12.51.18:652][312]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.51.18:675][312]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.05.18-12.51.18:676][312]LogTemp:Display: Added material ShaderMap 0x000000014E1BD280 with Material 0x000000012BCBE200 to ShaderMapsBeingCompiled
+[2017.05.18-12.51.18:678][312]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant4Vector_0, GameThreadShaderMap 0x000000014E1BD280
+[2017.05.18-12.51.20:910][454]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.51.20:911][454]LogTemp:Display: Added material ShaderMap 0x000000014E1BD600 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.51.20:921][454]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014E1BD600
+[2017.05.18-12.51.20:921][454]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.51.21:719][504]LogTemp:Display: Finished compile of shader map 0x000000014AFDCF00
+[2017.05.18-12.51.21:719][504]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014AFDCF00, marking material BulletMeterial as finished
+[2017.05.18-12.51.21:719][504]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.51.22:198][531]LogTemp:Display: Finished compile of shader map 0x000000014E1BD280
+[2017.05.18-12.51.22:198][531]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant4Vector_0 complete, GameThreadShaderMap 0x000000014E1BD280, marking material FMatExpressionPreview MaterialExpressionConstant4Vector_0 as finished
+[2017.05.18-12.51.22:198][531]LogTemp:Display: Marking material as finished 0x000000012BCBE200
+[2017.05.18-12.51.22:795][568]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.51.22:796][568]LogTemp:Display: Added material ShaderMap 0x000000014E6AF580 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.51.22:807][568]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014E6AF580
+[2017.05.18-12.51.22:807][568]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.51.22:896][574]LogTemp:Display: Finished compile of shader map 0x000000014E1BD600
+[2017.05.18-12.51.22:896][574]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014E1BD600, marking material BulletMeterial as finished
+[2017.05.18-12.51.22:896][574]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.51.26:522][805]LogTemp:Display: Finished compile of shader map 0x000000014E6AF580
+[2017.05.18-12.51.26:522][805]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014E6AF580, marking material BulletMeterial as finished
+[2017.05.18-12.51.26:522][805]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.51.26:538][806]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 80 instructions
+[2017.05.18-12.51.26:538][806]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.51.26:538][806]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.51.33:730][128]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.51.33:730][128]LogTemp:Display: Added material ShaderMap 0x000000014E901980 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.51.33:740][128]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000014E901980
+[2017.05.18-12.51.33:740][128]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.51.37:519][379]LogTemp:Display: Finished compile of shader map 0x000000014E901980
+[2017.05.18-12.51.37:519][379]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000014E901980, marking material BulletMeterial as finished
+[2017.05.18-12.51.37:519][379]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.51.37:536][380]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 81 instructions
+[2017.05.18-12.51.37:536][380]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.51.37:536][380]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.51.39:423][517]LogMaterialEditor: Saving and Compiling material BulletMeterial
+[2017.05.18-12.51.43:569][517]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.51.43:570][517]LogTemp:Display: Added material ShaderMap 0x0000000107F30F00 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.51.43:590][517]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x0000000107F30F00
+[2017.05.18-12.51.43:590][517]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.51.43:632][517]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.51.43:633][517]LogTemp:Display: Added material ShaderMap 0x0000000015368B80 with Material 0x000000014C7BD000 to ShaderMapsBeingCompiled
+[2017.05.18-12.51.43:651][517]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x0000000015368B80
+[2017.05.18-12.51.43:654][517]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.51.43:655][517]LogTemp:Display: Added material ShaderMap 0x0000000154156B00 with Material 0x000000014C7BD000 to ShaderMapsBeingCompiled
+[2017.05.18-12.51.43:669][517]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x0000000154156B00
+[2017.05.18-12.51.43:671][517]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.51.43:723][517]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BulletMeterial, compiling. 
+[2017.05.18-12.51.43:724][517]LogTemp:Display: Added material ShaderMap 0x00000001540A8F00 with Material 0x000000014C950400 to ShaderMapsBeingCompiled
+[2017.05.18-12.51.44:360][517]LogTemp:Display: Finished compile of shader map 0x00000001540A8F00
+[2017.05.18-12.51.44:360][517]LogTemp:Display: Shader map FDebugViewModeMaterialProxy BulletMeterial complete, GameThreadShaderMap 0x00000001540A8F00, marking material FDebugViewModeMaterialProxy BulletMeterial as finished
+[2017.05.18-12.51.44:360][517]LogTemp:Display: Marking material as finished 0x000000014C950400
+[2017.05.18-12.51.44:378][517]TextureStreamingBuild:Display: Compiling optional shaders took 0.662 seconds.
+[2017.05.18-12.51.45:644][517]LogTemp:Display: Finished compile of shader map 0x0000000154156B00
+[2017.05.18-12.51.45:644][517]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x0000000154156B00, marking material BulletMeterial as finished
+[2017.05.18-12.51.45:644][517]LogTemp:Display: Marking material as finished 0x000000014C7BD000
+[2017.05.18-12.51.45:650][517]LogTemp:Display: Finished compile of shader map 0x0000000107F30F00
+[2017.05.18-12.51.45:650][517]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x0000000107F30F00, marking material BulletMeterial as finished
+[2017.05.18-12.51.45:650][517]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.51.45:698][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletMeterial" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletMeterial.uasset" SILENT=true
+[2017.05.18-12.51.45:709][517]LogSavePackage: Save=8.86ms
+[2017.05.18-12.51.45:709][517]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/BulletMeterialC552A60647FE1C5A4EF6AE8877FAE740.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletMeterial.uasset'
+[2017.05.18-12.51.45:712][517]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletMeterial.uasset
+[2017.05.18-12.51.45:716][517]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 81 instructions
+[2017.05.18-12.51.45:716][517]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.51.45:716][517]MaterialEditorStats: 정보 Texture samplers: 2/16
+[2017.05.18-12.51.59:740][207]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.18-12.52.02:165][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset" SILENT=true
+[2017.05.18-12.52.02:281][294]LogSavePackage: Save=37.48ms
+[2017.05.18-12.52.02:282][294]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/BulletBPABCB8C7D4879DC26046CE38DB603EAE3.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset'
+[2017.05.18-12.52.02:303][294]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset
+[2017.05.18-12.52.08:801][917]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-12.52.08:820][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-12.52.08:820][917]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 6:52:08)
+[2017.05.18-12.52.08:820][917]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-12.52.08:822][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002346s)
+[2017.05.18-12.52.08:823][917]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-12.52.08:823][917]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2017.05.18-12.52.08:823][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003263s)
+[2017.05.18-12.52.08:874][917]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-12.52.08:945][917]LogInit: FAudioDevice initialized.
+[2017.05.18-12.52.08:975][917]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-12.52.08:978][917]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-21.52.08
+[2017.05.18-12.52.08:978][917]LogWorld: Bringing up level for play took: 0.002153
+[2017.05.18-12.52.08:993][917]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 1.119
+[2017.05.18-12.52.24:254][138]Cmd: SELECT NONE
+[2017.05.18-12.52.36:521][197]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-12.53.55:592][648]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.18-12.53.56:925][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset" SILENT=true
+[2017.05.18-12.53.56:953][677]LogSavePackage: Save=23.70ms
+[2017.05.18-12.53.56:953][677]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/BulletBP4E4501B64F73A857EA95B4B4DCBD3191.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset'
+[2017.05.18-12.53.56:957][677]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset
+[2017.05.18-12.53.58:901][871]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-12.53.58:919][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-12.53.58:919][871]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 6:53:58)
+[2017.05.18-12.53.58:919][871]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-12.53.58:922][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002287s)
+[2017.05.18-12.53.58:922][871]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-12.53.58:923][871]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2017.05.18-12.53.58:923][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003230s)
+[2017.05.18-12.53.58:947][871]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-12.53.58:973][871]LogInit: FAudioDevice initialized.
+[2017.05.18-12.53.59:004][871]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-12.53.59:006][871]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-21.53.59
+[2017.05.18-12.53.59:006][871]LogWorld: Bringing up level for play took: 0.001708
+[2017.05.18-12.53.59:008][871]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: -0.867
+[2017.05.18-12.54.06:844][654]Cmd: TRANSACTION UNDO
+[2017.05.18-12.54.06:844][654]LogEditorTransaction: Undo 컴포넌트 변경
+[2017.05.18-12.54.06:848][654]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.18-12.54.06:884][654]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.05.18-12.54.06:888][654]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.05.18-12.54.06:931][654]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-12.54.06:932][654]LogTemp:Display: Added material ShaderMap 0x000000011A6BCF00 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-12.54.06:942][654]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000011A6BCF00
+[2017.05.18-12.54.06:942][654]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.54.08:851][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset" SILENT=true
+[2017.05.18-12.54.08:872][799]LogSavePackage: Save=16.44ms
+[2017.05.18-12.54.08:872][799]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/BulletBP1EF6D3AD42C2F6F501211A9C15796BCB.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset'
+[2017.05.18-12.54.08:875][799]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset
+[2017.05.18-12.54.11:134][979]LogTemp:Display: Finished compile of shader map 0x000000011A6BCF00
+[2017.05.18-12.54.11:134][979]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000011A6BCF00, marking material BulletMeterial as finished
+[2017.05.18-12.54.11:134][979]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-12.54.11:137][979]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 81 instructions
+[2017.05.18-12.54.11:137][979]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-12.54.11:137][979]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-12.54.59:375][911]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-12.54.59:394][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-12.54.59:394][911]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 6:54:59)
+[2017.05.18-12.54.59:394][911]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-12.54.59:396][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002346s)
+[2017.05.18-12.54.59:397][911]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-12.54.59:397][911]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2017.05.18-12.54.59:397][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003272s)
+[2017.05.18-12.54.59:421][911]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-12.54.59:438][911]LogInit: FAudioDevice initialized.
+[2017.05.18-12.54.59:467][911]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-12.54.59:470][911]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-21.54.59
+[2017.05.18-12.54.59:470][911]LogWorld: Bringing up level for play took: 0.001846
+[2017.05.18-12.54.59:472][911]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: -0.404
+[2017.05.18-12.55.35:443][796]LogSavePackage: Save=40.74ms
+[2017.05.18-12.55.35:443][796]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Baselevel_Auto063DBB2704A76ADBEF54C17AA9C6F92C3.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Levels/Baselevel_Auto0.umap'
+[2017.05.18-12.55.35:444][796]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Levels/Baselevel_Auto0.umap
+[2017.05.18-12.55.35:454][796]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Baselevel' took 0.080
+[2017.05.18-12.55.35:454][796]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.080
+[2017.05.18-12.55.35:457][796]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Hero/HeroBP] ([1] browsable assets)...
+[2017.05.18-12.55.35:478][796]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Hero/HeroBP.HeroBP]
+[2017.05.18-12.55.35:478][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hero/HeroBP]
+[2017.05.18-12.55.35:478][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2017.05.18-12.55.35:542][796]LogSavePackage: Save=57.65ms
+[2017.05.18-12.55.35:542][796]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HeroBP_Auto09AB5D340464DEBD639DBFBA7A1FC90C0.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto0.uasset'
+[2017.05.18-12.55.35:544][796]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto0.uasset
+[2017.05.18-12.55.35:544][796]LogFileHelpers: Auto-saving content packages took 0.089
+[2017.05.18-12.55.35:642][797]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-12.55.40:633][179]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.18-12.55.51:902][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset" SILENT=true
+[2017.05.18-12.55.51:931][622]LogSavePackage: Save=23.54ms
+[2017.05.18-12.55.51:931][622]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/BulletBPA483BF014F0EC888B9F4E5A76B437B56.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset'
+[2017.05.18-12.55.51:934][622]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset
+[2017.05.18-12.55.58:036][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Baselevel" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.18-12.55.58:109][210]LogSavePackage: Save=43.16ms
+[2017.05.18-12.55.58:109][210]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/BaselevelFF181BC7483C3D201D5B03B4A6F95D70.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap'
+[2017.05.18-12.55.58:130][210]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap
+[2017.05.18-12.55.58:187][210]LogFileHelpers: Saving map 'Baselevel' took 0.814
+[2017.05.18-12.55.58:189][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset" SILENT=true
+[2017.05.18-12.55.58:244][210]LogSavePackage: Save=51.08ms
+[2017.05.18-12.55.58:244][210]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HeroBP5C811D644499D10AE3A30D83448B5735.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset'
+[2017.05.18-12.55.58:248][210]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset
+[2017.05.18-12.55.59:815][393]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-12.55.59:832][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-12.55.59:832][393]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 6:55:59)
+[2017.05.18-12.55.59:832][393]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-12.55.59:835][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002223s)
+[2017.05.18-12.55.59:835][393]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-12.55.59:835][393]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2017.05.18-12.55.59:835][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003116s)
+[2017.05.18-12.55.59:890][393]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-12.55.59:950][393]LogInit: FAudioDevice initialized.
+[2017.05.18-12.55.59:981][393]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-12.55.59:984][393]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-21.55.59
+[2017.05.18-12.55.59:984][393]LogWorld: Bringing up level for play took: 0.001691
+[2017.05.18-12.55.59:986][393]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.109
+[2017.05.18-12.58.34:228][339]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.05.18-12.58.34:272][339]LogTemp:Display: Added material ShaderMap 0x000000011AABCB80 with Material 0x000000005E916F80 to ShaderMapsBeingCompiled
+[2017.05.18-12.58.34:373][339]LogTemp:Display: Kicking off shader compilation for M_UE4Man_Body, GameThreadShaderMap 0x000000011AABCB80
+[2017.05.18-12.58.51:597][565]LogTemp:Display: Finished compile of shader map 0x000000011AABCB80
+[2017.05.18-12.58.51:597][565]LogTemp:Display: Shader map M_UE4Man_Body complete, GameThreadShaderMap 0x000000011AABCB80, marking material M_UE4Man_Body as finished
+[2017.05.18-12.58.51:597][565]LogTemp:Display: Marking material as finished 0x000000005E916F80
+[2017.05.18-12.59.41:542][858]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.05.18-12.59.41:544][858]LogTemp:Display: Added material ShaderMap 0x0000000072D3D600 with Material 0x0000000156CF1080 to ShaderMapsBeingCompiled
+[2017.05.18-12.59.41:602][858]LogTemp:Display: Kicking off shader compilation for M_UE4Man_Body, GameThreadShaderMap 0x0000000072D3D600
+[2017.05.18-12.59.42:344][858]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.05.18-12.59.42:346][858]LogTemp:Display: Added material ShaderMap 0x000000016710DD00 with Material 0x0000000156CF1080 to ShaderMapsBeingCompiled
+[2017.05.18-12.59.42:407][858]LogTemp:Display: Kicking off shader compilation for M_UE4Man_Body, GameThreadShaderMap 0x000000016710DD00
+[2017.05.18-12.59.42:407][858]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-12.59.42:462][858]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.05.18-12.59.42:462][858]LogTemp:Display: Added material ShaderMap 0x0000000167928F00 with Material 0x000000016795BA00 to ShaderMapsBeingCompiled
+[2017.05.18-12.59.42:465][858]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionTextureSample_4, GameThreadShaderMap 0x0000000167928F00
+[2017.05.18-12.59.42:483][858]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.05.18-12.59.42:483][858]LogTemp:Display: Added material ShaderMap 0x0000000156952E80 with Material 0x0000000167959900 to ShaderMapsBeingCompiled
+[2017.05.18-12.59.42:486][858]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionVectorParameter_3, GameThreadShaderMap 0x0000000156952E80
+[2017.05.18-12.59.42:487][858]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2017.05.18-12.59.42:507][858]LogTemp:Display: Added material ShaderMap 0x0000000156951980 with Material 0x0000000167958D00 to ShaderMapsBeingCompiled
+[2017.05.18-12.59.42:509][858]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, GameThreadShaderMap 0x0000000156951980
+[2017.05.18-12.59.42:510][858]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2017.05.18-12.59.42:511][858]LogTemp:Display: Added material ShaderMap 0x0000000156950100 with Material 0x0000000156761C00 to ShaderMapsBeingCompiled
+[2017.05.18-12.59.42:513][858]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, GameThreadShaderMap 0x0000000156950100
+[2017.05.18-12.59.58:138][756]LogTemp:Display: Finished compile of shader map 0x000000016710DD00
+[2017.05.18-12.59.58:138][756]LogTemp:Display: Shader map M_UE4Man_Body complete, GameThreadShaderMap 0x000000016710DD00, marking material M_UE4Man_Body as finished
+[2017.05.18-12.59.58:138][756]LogTemp:Display: Marking material as finished 0x0000000156CF1080
+[2017.05.18-12.59.58:156][757]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 97 instructions
+[2017.05.18-12.59.58:156][757]MaterialEditorStats: 정보 Vertex shader: 31 instructions
+[2017.05.18-12.59.58:156][757]MaterialEditorStats: 정보 Texture samplers: 4/16
+[2017.05.18-12.59.58:377][773]LogTemp:Display: Finished compile of shader map 0x0000000167928F00
+[2017.05.18-12.59.58:377][773]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionTextureSample_4 complete, GameThreadShaderMap 0x0000000167928F00, marking material FMatExpressionPreview MaterialExpressionTextureSample_4 as finished
+[2017.05.18-12.59.58:377][773]LogTemp:Display: Marking material as finished 0x000000016795BA00
+[2017.05.18-12.59.58:930][812]LogTemp:Display: Finished compile of shader map 0x0000000156951980
+[2017.05.18-12.59.58:930][812]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 complete, GameThreadShaderMap 0x0000000156951980, marking material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 as finished
+[2017.05.18-12.59.58:930][812]LogTemp:Display: Marking material as finished 0x0000000167958D00
+[2017.05.18-12.59.59:281][834]LogTemp:Display: Finished compile of shader map 0x0000000156950100
+[2017.05.18-12.59.59:281][834]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1 complete, GameThreadShaderMap 0x0000000156950100, marking material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1 as finished
+[2017.05.18-12.59.59:281][834]LogTemp:Display: Marking material as finished 0x0000000156761C00
+[2017.05.18-12.59.59:424][841]LogTemp:Display: Finished compile of shader map 0x0000000156952E80
+[2017.05.18-12.59.59:424][841]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionVectorParameter_3 complete, GameThreadShaderMap 0x0000000156952E80, marking material FMatExpressionPreview MaterialExpressionVectorParameter_3 as finished
+[2017.05.18-12.59.59:424][841]LogTemp:Display: Marking material as finished 0x0000000167959900
+[2017.05.18-13.00.06:868][374]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.05.18-13.00.06:869][374]LogTemp:Display: Added material ShaderMap 0x0000000168A91600 with Material 0x0000000167906200 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.06:871][374]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionVectorParameter_3, GameThreadShaderMap 0x0000000168A91600
+[2017.05.18-13.00.06:905][376]LogTemp:Display: Removed shader map 0x0000000168A91600 from material 0x0000000167906200
+[2017.05.18-13.00.06:927][376]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.05.18-13.00.06:928][376]LogTemp:Display: Added material ShaderMap 0x000000016798FC80 with Material 0x00000001685D7A00 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.06:930][376]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionVectorParameter_3, GameThreadShaderMap 0x000000016798FC80
+[2017.05.18-13.00.06:934][376]LogTemp:Display: Removed shader map 0x000000016798FC80 from material 0x00000001685D7A00
+[2017.05.18-13.00.06:973][376]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.05.18-13.00.06:974][376]LogTemp:Display: Added material ShaderMap 0x000000016798E780 with Material 0x00000001685D7A00 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.06:976][376]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionVectorParameter_3, GameThreadShaderMap 0x000000016798E780
+[2017.05.18-13.00.06:981][376]LogTemp:Display: Removed shader map 0x000000016798E780 from material 0x00000001685D7A00
+[2017.05.18-13.00.07:003][376]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.05.18-13.00.07:004][376]LogTemp:Display: Added material ShaderMap 0x000000016798D280 with Material 0x00000001685D7A00 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.07:006][376]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionVectorParameter_3, GameThreadShaderMap 0x000000016798D280
+[2017.05.18-13.00.07:010][376]LogTemp:Display: Removed shader map 0x000000016798D280 from material 0x00000001685D7A00
+[2017.05.18-13.00.07:033][376]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.05.18-13.00.07:034][376]LogTemp:Display: Added material ShaderMap 0x00000001689AFC80 with Material 0x00000001685D7A00 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.07:036][376]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionVectorParameter_3, GameThreadShaderMap 0x00000001689AFC80
+[2017.05.18-13.00.07:040][376]LogTemp:Display: Removed shader map 0x00000001689AFC80 from material 0x00000001685D7A00
+[2017.05.18-13.00.07:076][376]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.05.18-13.00.07:076][376]LogTemp:Display: Added material ShaderMap 0x00000001689AE780 with Material 0x00000001685D7A00 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.07:079][376]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionVectorParameter_3, GameThreadShaderMap 0x00000001689AE780
+[2017.05.18-13.00.07:081][376]LogTemp:Display: Removed shader map 0x00000001689AE780 from material 0x00000001685D7A00
+[2017.05.18-13.00.07:114][376]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.05.18-13.00.07:115][376]LogTemp:Display: Added material ShaderMap 0x00000001689AD280 with Material 0x0000000167906E00 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.07:117][376]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionVectorParameter_3, GameThreadShaderMap 0x00000001689AD280
+[2017.05.18-13.00.07:122][376]LogTemp:Display: Removed shader map 0x00000001689AD280 from material 0x0000000167906E00
+[2017.05.18-13.00.07:143][376]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.05.18-13.00.07:144][376]LogTemp:Display: Added material ShaderMap 0x0000000168A47C80 with Material 0x0000000167906E00 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.07:146][376]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionVectorParameter_3, GameThreadShaderMap 0x0000000168A47C80
+[2017.05.18-13.00.07:150][376]LogTemp:Display: Removed shader map 0x0000000168A47C80 from material 0x0000000167906E00
+[2017.05.18-13.00.07:172][376]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.05.18-13.00.07:173][376]LogTemp:Display: Added material ShaderMap 0x0000000168A46780 with Material 0x0000000167906E00 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.07:175][376]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionVectorParameter_3, GameThreadShaderMap 0x0000000168A46780
+[2017.05.18-13.00.07:179][376]LogTemp:Display: Removed shader map 0x0000000168A46780 from material 0x0000000167906E00
+[2017.05.18-13.00.07:201][376]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.05.18-13.00.07:202][376]LogTemp:Display: Added material ShaderMap 0x0000000168A45280 with Material 0x0000000168891C00 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.07:204][376]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionVectorParameter_3, GameThreadShaderMap 0x0000000168A45280
+[2017.05.18-13.00.07:208][376]LogTemp:Display: Removed shader map 0x0000000168A45280 from material 0x0000000168891C00
+[2017.05.18-13.00.07:234][376]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.05.18-13.00.07:235][376]LogTemp:Display: Added material ShaderMap 0x0000000167DD7C80 with Material 0x0000000168891C00 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.07:238][376]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionVectorParameter_3, GameThreadShaderMap 0x0000000167DD7C80
+[2017.05.18-13.00.07:242][376]LogTemp:Display: Removed shader map 0x0000000167DD7C80 from material 0x0000000168891C00
+[2017.05.18-13.00.07:302][376]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.05.18-13.00.07:303][376]LogTemp:Display: Added material ShaderMap 0x0000000167DD6400 with Material 0x0000000168891C00 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.07:305][376]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionVectorParameter_3, GameThreadShaderMap 0x0000000167DD6400
+[2017.05.18-13.00.07:306][376]LogTemp:Display: Finished compile of shader map 0x000000016798FC80
+[2017.05.18-13.00.07:306][376]LogTemp:Display: Finished compile of shader map 0x000000016798D280
+[2017.05.18-13.00.07:306][376]LogTemp:Display: Finished compile of shader map 0x0000000168A91600
+[2017.05.18-13.00.07:307][376]LogTemp:Display: Finished compile of shader map 0x00000001689AD280
+[2017.05.18-13.00.07:320][377]LogTemp:Display: Finished compile of shader map 0x0000000168A47C80
+[2017.05.18-13.00.07:486][389]LogTemp:Display: Removed shader map 0x0000000167DD6400 from material 0x0000000168891C00
+[2017.05.18-13.00.07:512][389]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.05.18-13.00.07:513][389]LogTemp:Display: Added material ShaderMap 0x0000000168A91980 with Material 0x0000000168584400 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.07:515][389]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionVectorParameter_3, GameThreadShaderMap 0x0000000168A91980
+[2017.05.18-13.00.07:521][389]LogTemp:Display: Removed shader map 0x0000000168A91980 from material 0x0000000168584400
+[2017.05.18-13.00.07:544][389]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.05.18-13.00.07:545][389]LogTemp:Display: Added material ShaderMap 0x0000000168A90B80 with Material 0x0000000168584400 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.07:547][389]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionVectorParameter_3, GameThreadShaderMap 0x0000000168A90B80
+[2017.05.18-13.00.07:548][389]LogTemp:Display: Finished compile of shader map 0x0000000168A45280
+[2017.05.18-13.00.07:974][424]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.05.18-13.00.07:977][424]LogTemp:Display: Added material ShaderMap 0x0000000168A45280 with Material 0x0000000156CF1080 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.08:040][424]LogTemp:Display: Kicking off shader compilation for M_UE4Man_Body, GameThreadShaderMap 0x0000000168A45280
+[2017.05.18-13.00.08:041][424]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-13.00.08:050][424]LogTemp:Display: Removed shader map 0x0000000168A90B80 from material 0x0000000168584400
+[2017.05.18-13.00.08:082][424]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.05.18-13.00.08:083][424]LogTemp:Display: Added material ShaderMap 0x000000016C07A780 with Material 0x000000016C10BA00 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.08:085][424]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionVectorParameter_3, GameThreadShaderMap 0x000000016C07A780
+[2017.05.18-13.00.08:090][424]LogTemp:Display: Finished compile of shader map 0x0000000168A91980
+[2017.05.18-13.00.08:090][424]LogTemp:Display: Finished compile of shader map 0x0000000167DD6400
+[2017.05.18-13.00.08:142][427]LogTemp:Display: Finished compile of shader map 0x0000000168A90B80
+[2017.05.18-13.00.17:680][972]LogTemp:Display: Finished compile of shader map 0x000000016C07A780
+[2017.05.18-13.00.17:680][972]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionVectorParameter_3 complete, GameThreadShaderMap 0x000000016C07A780, marking material FMatExpressionPreview MaterialExpressionVectorParameter_3 as finished
+[2017.05.18-13.00.17:680][972]LogTemp:Display: Marking material as finished 0x000000016C10BA00
+[2017.05.18-13.00.17:696][973]LogTemp:Display: Finished compile of shader map 0x0000000168A45280
+[2017.05.18-13.00.17:696][973]LogTemp:Display: Shader map M_UE4Man_Body complete, GameThreadShaderMap 0x0000000168A45280, marking material M_UE4Man_Body as finished
+[2017.05.18-13.00.17:696][973]LogTemp:Display: Marking material as finished 0x0000000156CF1080
+[2017.05.18-13.00.17:712][974]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 97 instructions
+[2017.05.18-13.00.17:712][974]MaterialEditorStats: 정보 Vertex shader: 31 instructions
+[2017.05.18-13.00.17:712][974]MaterialEditorStats: 정보 Texture samplers: 4/16
+[2017.05.18-13.00.19:218][110]LogMaterialEditor: Saving and Compiling material M_UE4Man_Body
+[2017.05.18-13.00.22:481][110]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.05.18-13.00.22:483][110]LogTemp:Display: Added material ShaderMap 0x000000016C07AE80 with Material 0x0000000156CF1080 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.22:562][110]LogTemp:Display: Kicking off shader compilation for M_UE4Man_Body, GameThreadShaderMap 0x000000016C07AE80
+[2017.05.18-13.00.22:563][110]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-13.00.22:603][110]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.05.18-13.00.22:606][110]LogTemp:Display: Added material ShaderMap 0x000000016C370F00 with Material 0x00000000C7634A00 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.22:696][110]LogTemp:Display: Kicking off shader compilation for M_UE4Man_Body, GameThreadShaderMap 0x000000016C370F00
+[2017.05.18-13.00.22:700][110]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.05.18-13.00.22:703][110]LogTemp:Display: Added material ShaderMap 0x000000016D44BC80 with Material 0x00000000C7634A00 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.22:782][110]LogTemp:Display: Kicking off shader compilation for M_UE4Man_Body, GameThreadShaderMap 0x000000016D44BC80
+[2017.05.18-13.00.22:785][110]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-13.00.22:817][110]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2017.05.18-13.00.22:820][110]LogTemp:Display: Added material ShaderMap 0x000000016E469280 with Material 0x0000000072D25600 to ShaderMapsBeingCompiled
+[2017.05.18-13.00.28:274][110]LogTemp:Display: Finished compile of shader map 0x000000016E469280
+[2017.05.18-13.00.28:274][110]LogTemp:Display: Shader map FDebugViewModeMaterialProxy M_UE4Man_Body complete, GameThreadShaderMap 0x000000016E469280, marking material FDebugViewModeMaterialProxy M_UE4Man_Body as finished
+[2017.05.18-13.00.28:274][110]LogTemp:Display: Marking material as finished 0x0000000072D25600
+[2017.05.18-13.00.28:278][110]TextureStreamingBuild:Display: Compiling optional shaders took 5.467 seconds.
+[2017.05.18-13.00.35:575][110]LogTemp:Display: Finished compile of shader map 0x000000016D44BC80
+[2017.05.18-13.00.35:575][110]LogTemp:Display: Shader map M_UE4Man_Body complete, GameThreadShaderMap 0x000000016D44BC80, marking material M_UE4Man_Body as finished
+[2017.05.18-13.00.35:575][110]LogTemp:Display: Marking material as finished 0x00000000C7634A00
+[2017.05.18-13.00.35:586][110]LogTemp:Display: Finished compile of shader map 0x000000016C07AE80
+[2017.05.18-13.00.35:586][110]LogTemp:Display: Shader map M_UE4Man_Body complete, GameThreadShaderMap 0x000000016C07AE80, marking material M_UE4Man_Body as finished
+[2017.05.18-13.00.35:586][110]LogTemp:Display: Marking material as finished 0x0000000156CF1080
+[2017.05.18-13.00.35:629][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/M_UE4Man_Body" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/M_UE4Man_Body.uasset" SILENT=true
+[2017.05.18-13.00.35:654][110]LogSavePackage: Save=22.44ms
+[2017.05.18-13.00.35:654][110]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/M_UE4Man_Body938C78874C2047CFAA16D9A3C66D817C.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/M_UE4Man_Body.uasset'
+[2017.05.18-13.00.35:657][110]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/M_UE4Man_Body.uasset
+[2017.05.18-13.00.35:662][110]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 97 instructions
+[2017.05.18-13.00.35:662][110]MaterialEditorStats: 정보 Vertex shader: 31 instructions
+[2017.05.18-13.00.35:662][110]MaterialEditorStats: 정보 Texture samplers: 5/16
+[2017.05.18-13.01.23:560][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyMeterial" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyMeterial.uasset" SILENT=true
+[2017.05.18-13.01.23:586][347]LogSavePackage: Save=23.93ms
+[2017.05.18-13.01.23:586][347]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/EnemyMeterial0550B700487710C4F230D794637A87F3.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyMeterial.uasset'
+[2017.05.18-13.01.23:590][347]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyMeterial.uasset
+[2017.05.18-13.01.35:547][ 30]BlueprintLog: New page: EnemyBP 컴파일
+[2017.05.18-13.01.41:248][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.05.18-13.01.41:277][263]LogSavePackage: Save=26.81ms
+[2017.05.18-13.01.41:277][263]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/EnemyBPB2FFA7BA459FCEBC030B48BF529FDD8E.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyBP.uasset'
+[2017.05.18-13.01.41:280][263]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyBP.uasset
+[2017.05.18-13.02.04:866][853]LogEditorTransaction: Undo 컴포넌트 사용된 머티리얼을 대체합니다.
+[2017.05.18-13.02.04:871][853]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.18-13.02.04:874][853]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.05.18-13.02.04:893][853]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.05.18-13.02.04:923][853]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-13.02.04:924][853]LogTemp:Display: Added material ShaderMap 0x00000000FDEA9D00 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-13.02.04:934][853]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x00000000FDEA9D00
+[2017.05.18-13.02.04:934][853]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-13.02.04:957][853]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.05.18-13.02.04:959][853]LogTemp:Display: Added material ShaderMap 0x0000000080D00800 with Material 0x0000000156CF1080 to ShaderMapsBeingCompiled
+[2017.05.18-13.02.05:018][853]LogTemp:Display: Kicking off shader compilation for M_UE4Man_Body, GameThreadShaderMap 0x0000000080D00800
+[2017.05.18-13.02.05:018][853]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-13.02.08:412][ 63]LogTemp:Display: Finished compile of shader map 0x00000000FDEA9D00
+[2017.05.18-13.02.08:412][ 63]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x00000000FDEA9D00, marking material BulletMeterial as finished
+[2017.05.18-13.02.08:412][ 63]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-13.02.08:428][ 64]MaterialEditorStats: 정보 Base pass shader with only dynamic lighting: 81 instructions
+[2017.05.18-13.02.08:428][ 64]MaterialEditorStats: 정보 Vertex shader: 29 instructions
+[2017.05.18-13.02.08:428][ 64]MaterialEditorStats: 정보 Texture samplers: 1/16
+[2017.05.18-13.02.21:542][325]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.05.18-13.02.21:544][325]LogTemp:Display: Added material ShaderMap 0x000000015FDE1D00 with Material 0x0000000156CF1080 to ShaderMapsBeingCompiled
+[2017.05.18-13.02.21:623][325]LogTemp:Display: Kicking off shader compilation for M_UE4Man_Body, GameThreadShaderMap 0x000000015FDE1D00
+[2017.05.18-13.02.21:623][325]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-13.02.21:654][325]LogTemp:Display: Removed shader map 0x000000016C370F00 from material 0x00000000C7634A00
+[2017.05.18-13.02.21:668][325]LogMaterial: Missing cached shader map for material EnemyMeterial, compiling. 
+[2017.05.18-13.02.21:671][325]LogTemp:Display: Added material ShaderMap 0x00000000E4C66B00 with Material 0x000000016E858700 to ShaderMapsBeingCompiled
+[2017.05.18-13.02.21:759][325]LogTemp:Display: Kicking off shader compilation for EnemyMeterial, GameThreadShaderMap 0x00000000E4C66B00
+[2017.05.18-13.02.21:776][325]LogMaterial: Missing cached shader map for material EnemyMeterial, compiling. 
+[2017.05.18-13.02.21:778][325]LogTemp:Display: Added material ShaderMap 0x000000015AFA3C80 with Material 0x000000016E858700 to ShaderMapsBeingCompiled
+[2017.05.18-13.02.21:875][325]LogTemp:Display: Kicking off shader compilation for EnemyMeterial, GameThreadShaderMap 0x000000015AFA3C80
+[2017.05.18-13.02.21:876][325]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-13.02.21:906][325]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy EnemyMeterial, compiling. 
+[2017.05.18-13.02.21:908][325]LogTemp:Display: Added material ShaderMap 0x000000015BFB5280 with Material 0x000000015BCEBD00 to ShaderMapsBeingCompiled
+[2017.05.18-13.02.27:461][325]LogTemp:Display: Finished compile of shader map 0x000000015BFB5280
+[2017.05.18-13.02.27:461][325]LogTemp:Display: Shader map FDebugViewModeMaterialProxy EnemyMeterial complete, GameThreadShaderMap 0x000000015BFB5280, marking material FDebugViewModeMaterialProxy EnemyMeterial as finished
+[2017.05.18-13.02.27:461][325]LogTemp:Display: Marking material as finished 0x000000015BCEBD00
+[2017.05.18-13.02.27:466][325]TextureStreamingBuild:Display: Compiling optional shaders took 5.567 seconds.
+[2017.05.18-13.02.27:663][325]LogTemp:Display: Finished compile of shader map 0x000000015FDE1D00
+[2017.05.18-13.02.27:663][325]LogTemp:Display: Shader map M_UE4Man_Body complete, GameThreadShaderMap 0x000000015FDE1D00, marking material M_UE4Man_Body as finished
+[2017.05.18-13.02.27:663][325]LogTemp:Display: Marking material as finished 0x0000000156CF1080
+[2017.05.18-13.02.27:672][325]LogTemp:Display: Finished compile of shader map 0x0000000080D00800
+[2017.05.18-13.02.27:672][325]LogTemp:Display: Shader map M_UE4Man_Body complete, GameThreadShaderMap 0x0000000080D00800, marking material M_UE4Man_Body as finished
+[2017.05.18-13.02.27:672][325]LogTemp:Display: Marking material as finished 0x0000000156CF1080
+[2017.05.18-13.02.34:104][651]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-13.02.37:664][847]LogTemp:Display: Finished compile of shader map 0x000000015AFA3C80
+[2017.05.18-13.02.37:664][847]LogTemp:Display: Shader map EnemyMeterial complete, GameThreadShaderMap 0x000000015AFA3C80, marking material EnemyMeterial as finished
+[2017.05.18-13.02.37:664][847]LogTemp:Display: Marking material as finished 0x000000016E858700
+[2017.05.18-13.02.47:725][794]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.02.47:744][794]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2017.05.18-13.02.47:744][794]LogPlayLevel: [PlayLevel] Compiling EnemyBP before play...
+[2017.05.18-13.02.48:017][794]LogPlayLevel: PlayLevel: Blueprint regeneration took 272 ms (1 blueprints)
+[2017.05.18-13.02.48:017][794]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 7:02:48)
+[2017.05.18-13.02.48:017][794]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.02.48:019][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002072s)
+[2017.05.18-13.02.48:019][794]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.02.48:020][794]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2017.05.18-13.02.48:020][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.002917s)
+[2017.05.18-13.02.48:061][794]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-13.02.48:079][794]LogInit: FAudioDevice initialized.
+[2017.05.18-13.02.48:109][794]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.02.48:111][794]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.02.48
+[2017.05.18-13.02.48:111][794]LogWorld: Bringing up level for play took: 0.001677
+[2017.05.18-13.02.48:113][794]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.23
+[2017.05.18-13.03.13:343][719]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-13.07.16:534][263]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.07.16:554][263]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2017.05.18-13.07.16:554][263]LogPlayLevel: [PlayLevel] Compiling EnemyBP before play...
+[2017.05.18-13.07.16:967][263]LogPlayLevel: PlayLevel: Blueprint regeneration took 412 ms (1 blueprints)
+[2017.05.18-13.07.16:967][263]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 7:07:16)
+[2017.05.18-13.07.16:967][263]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.07.16:969][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002277s)
+[2017.05.18-13.07.16:970][263]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.07.16:970][263]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2017.05.18-13.07.16:970][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003291s)
+[2017.05.18-13.07.17:218][263]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-13.07.17:261][263]LogInit: FAudioDevice initialized.
+[2017.05.18-13.07.17:293][263]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.07.17:296][263]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.07.17
+[2017.05.18-13.07.17:296][263]LogWorld: Bringing up level for play took: 0.002027
+[2017.05.18-13.07.17:299][263]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 1.413
+[2017.05.18-13.11.35:746][583]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.11.35:785][583]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2017.05.18-13.11.35:785][583]LogPlayLevel: [PlayLevel] Compiling EnemyBP before play...
+[2017.05.18-13.11.35:926][583]LogPlayLevel: PlayLevel: Blueprint regeneration took 140 ms (1 blueprints)
+[2017.05.18-13.11.35:926][583]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 7:11:35)
+[2017.05.18-13.11.35:926][583]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.11.35:928][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002230s)
+[2017.05.18-13.11.35:929][583]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.11.35:929][583]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2017.05.18-13.11.35:929][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003208s)
+[2017.05.18-13.11.35:971][583]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-13.11.35:988][583]LogInit: FAudioDevice initialized.
+[2017.05.18-13.11.36:014][583]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.11.36:017][583]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.11.36
+[2017.05.18-13.11.36:017][583]LogWorld: Bringing up level for play took: 0.001762
+[2017.05.18-13.11.36:019][583]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.13
+[2017.05.18-13.12.18:673][ 18]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-13.12.18:674][ 18]LogTemp:Display: Added material ShaderMap 0x000000010AC0C800 with Material 0x000000014BF58180 to ShaderMapsBeingCompiled
+[2017.05.18-13.12.18:694][ 18]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x000000010AC0C800
+[2017.05.18-13.12.18:694][ 18]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-13.12.18:706][ 18]LogTemp:Display: Removed shader map 0x0000000015368B80 from material 0x000000014C7BD000
+[2017.05.18-13.12.18:712][ 18]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-13.12.18:712][ 18]LogTemp:Display: Added material ShaderMap 0x0000000156AB0800 with Material 0x00000000312B2B00 to ShaderMapsBeingCompiled
+[2017.05.18-13.12.18:730][ 18]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x0000000156AB0800
+[2017.05.18-13.12.18:749][ 18]LogMaterial: Missing cached shader map for material BulletMeterial, compiling. 
+[2017.05.18-13.12.18:749][ 18]LogTemp:Display: Added material ShaderMap 0x0000000102693200 with Material 0x00000000312B2B00 to ShaderMapsBeingCompiled
+[2017.05.18-13.12.18:763][ 18]LogTemp:Display: Kicking off shader compilation for BulletMeterial, GameThreadShaderMap 0x0000000102693200
+[2017.05.18-13.12.18:764][ 18]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.18-13.12.18:792][ 18]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BulletMeterial, compiling. 
+[2017.05.18-13.12.18:792][ 18]LogTemp:Display: Added material ShaderMap 0x000000013726A400 with Material 0x000000010ABC8700 to ShaderMapsBeingCompiled
+[2017.05.18-13.12.25:146][ 18]LogTemp:Display: Finished compile of shader map 0x000000013726A400
+[2017.05.18-13.12.25:146][ 18]LogTemp:Display: Shader map FDebugViewModeMaterialProxy BulletMeterial complete, GameThreadShaderMap 0x000000013726A400, marking material FDebugViewModeMaterialProxy BulletMeterial as finished
+[2017.05.18-13.12.25:146][ 18]LogTemp:Display: Marking material as finished 0x000000010ABC8700
+[2017.05.18-13.12.25:150][ 18]TextureStreamingBuild:Display: Compiling optional shaders took 6.363 seconds.
+[2017.05.18-13.12.25:314][ 18]LogTemp:Display: Finished compile of shader map 0x000000010AC0C800
+[2017.05.18-13.12.25:314][ 18]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x000000010AC0C800, marking material BulletMeterial as finished
+[2017.05.18-13.12.25:314][ 18]LogTemp:Display: Marking material as finished 0x000000014BF58180
+[2017.05.18-13.12.27:122][143]LogTemp:Display: Finished compile of shader map 0x0000000102693200
+[2017.05.18-13.12.27:122][143]LogTemp:Display: Shader map BulletMeterial complete, GameThreadShaderMap 0x0000000102693200, marking material BulletMeterial as finished
+[2017.05.18-13.12.27:122][143]LogTemp:Display: Marking material as finished 0x00000000312B2B00
+[2017.05.18-13.12.28:377][267]LogTemp:Display: Removed shader map 0x000000005B334800 from material 0x000000014BF58180
+[2017.05.18-13.12.28:378][267]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Baselevel' took 0.020
+[2017.05.18-13.12.28:380][267]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gun/BulletMeterial] ([1] browsable assets)...
+[2017.05.18-13.12.28:396][267]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Gun/BulletMeterial.BulletMeterial]
+[2017.05.18-13.12.28:396][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gun/BulletMeterial]
+[2017.05.18-13.12.28:719][267]LogSavePackage: Save=210.13ms
+[2017.05.18-13.12.28:719][267]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/BulletMeterial_Auto10911BA55456FCFFC67E826985DC91555.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Gun/BulletMeterial_Auto1.uasset'
+[2017.05.18-13.12.28:792][267]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Gun/BulletMeterial_Auto1.uasset
+[2017.05.18-13.12.29:104][267]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/EnemyBP] ([1] browsable assets)...
+[2017.05.18-13.12.29:140][267]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/EnemyBP.EnemyBP]
+[2017.05.18-13.12.29:140][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/EnemyBP]
+[2017.05.18-13.12.29:140][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Enemy/EnemyBP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.05.18-13.12.29:590][267]LogSavePackage: Save=97.28ms
+[2017.05.18-13.12.29:590][267]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/EnemyBP_Auto199CD1FA448E4AC8EB60EF29BD45834AD.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Enemy/EnemyBP_Auto1.uasset'
+[2017.05.18-13.12.29:592][267]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Enemy/EnemyBP_Auto1.uasset
+[2017.05.18-13.12.29:593][267]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/EnemyMeterial] ([1] browsable assets)...
+[2017.05.18-13.12.29:612][267]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Enemy/EnemyMeterial.EnemyMeterial]
+[2017.05.18-13.12.29:612][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/EnemyMeterial]
+[2017.05.18-13.12.30:110][267]LogSavePackage: Save=25.20ms
+[2017.05.18-13.12.30:110][267]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/EnemyMeterial_Auto13F749EFB4A10994BC8F7C68DC30A8884.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Enemy/EnemyMeterial_Auto1.uasset'
+[2017.05.18-13.12.30:112][267]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Enemy/EnemyMeterial_Auto1.uasset
+[2017.05.18-13.12.30:112][267]LogFileHelpers: Auto-saving content packages took 1.733
+[2017.05.18-13.12.30:944][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletMeterial" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletMeterial.uasset" SILENT=true
+[2017.05.18-13.12.30:952][323]LogSavePackage: Save=3.51ms
+[2017.05.18-13.12.30:952][323]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/BulletMeterial0A26AEDD4028CED5049AF18C0B9A9B87.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletMeterial.uasset'
+[2017.05.18-13.12.30:955][323]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletMeterial.uasset
+[2017.05.18-13.12.30:958][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.05.18-13.12.30:995][323]LogSavePackage: Save=32.56ms
+[2017.05.18-13.12.30:995][323]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/EnemyBP7372D9B04A2913011DFD2FB668C7521F.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyBP.uasset'
+[2017.05.18-13.12.30:998][323]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyBP.uasset
+[2017.05.18-13.12.31:001][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyMeterial" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyMeterial.uasset" SILENT=true
+[2017.05.18-13.12.31:016][323]LogSavePackage: Save=11.02ms
+[2017.05.18-13.12.31:016][323]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/EnemyMeterialD00ED0FA4886287DB60397A67E32418F.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyMeterial.uasset'
+[2017.05.18-13.12.31:020][323]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyMeterial.uasset
+[2017.05.18-13.12.46:290][ 94]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.12.46:307][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-13.12.46:308][ 94]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 7:12:46)
+[2017.05.18-13.12.46:308][ 94]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.12.46:310][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002256s)
+[2017.05.18-13.12.46:310][ 94]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.12.46:311][ 94]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2017.05.18-13.12.46:311][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003296s)
+[2017.05.18-13.12.46:352][ 94]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-13.12.46:368][ 94]LogInit: FAudioDevice initialized.
+[2017.05.18-13.12.46:398][ 94]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.12.46:400][ 94]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.12.46
+[2017.05.18-13.12.46:401][ 94]LogWorld: Bringing up level for play took: 0.001828
+[2017.05.18-13.12.46:403][ 94]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.512
+[2017.05.18-13.12.58:533][993]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.12.58:575][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-13.12.58:575][993]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 7:12:58)
+[2017.05.18-13.12.58:575][993]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.12.58:578][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002174s)
+[2017.05.18-13.12.58:578][993]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.12.58:578][993]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2017.05.18-13.12.58:578][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.002973s)
+[2017.05.18-13.12.58:605][993]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-13.12.58:644][993]LogInit: FAudioDevice initialized.
+[2017.05.18-13.12.58:671][993]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.12.58:674][993]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.12.58
+[2017.05.18-13.12.58:709][993]LogWorld: Bringing up level for play took: 0.036226
+[2017.05.18-13.12.58:711][993]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.821
+[2017.05.18-13.13.01:554][315]LogBlueprintUserMessages: [HUD_C_61] 1.0
+[2017.05.18-13.13.01:660][326]LogBlueprintUserMessages: [HUD_C_61] 1.0
+[2017.05.18-13.13.01:860][350]LogBlueprintUserMessages: [HUD_C_61] 1.0
+[2017.05.18-13.13.02:060][374]LogBlueprintUserMessages: [HUD_C_61] 1.0
+[2017.05.18-13.13.02:260][398]LogBlueprintUserMessages: [HUD_C_61] 1.0
+[2017.05.18-13.13.02:460][422]LogBlueprintUserMessages: [HUD_C_61] 1.0
+[2017.05.18-13.13.02:660][446]LogBlueprintUserMessages: [HUD_C_61] 1.0
+[2017.05.18-13.13.02:860][470]LogBlueprintUserMessages: [HUD_C_61] 1.0
+[2017.05.18-13.13.03:060][494]LogBlueprintUserMessages: [HUD_C_61] 1.0
+[2017.05.18-13.13.03:260][518]LogBlueprintUserMessages: [HUD_C_61] 1.0
+[2017.05.18-13.13.03:460][542]LogBlueprintUserMessages: [HUD_C_61] 1.0
+[2017.05.18-13.13.04:326][646]LogBlueprintUserMessages: [HUD_C_61] 1.0
+[2017.05.18-13.13.06:618][921]LogBlueprintUserMessages: [HUD_C_61] 1.0
+[2017.05.18-13.13.06:818][945]LogBlueprintUserMessages: [HUD_C_61] 1.0
+[2017.05.18-13.13.07:018][969]LogBlueprintUserMessages: [HUD_C_61] 1.0
+[2017.05.18-13.13.07:218][993]LogBlueprintUserMessages: [HUD_C_61] 1.0
+[2017.05.18-13.13.07:418][ 17]LogBlueprintUserMessages: [HUD_C_61] 1.0
+[2017.05.18-13.13.07:618][ 41]LogBlueprintUserMessages: [HUD_C_61] 1.0
+[2017.05.18-13.15.05:348][ 59]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.15.05:366][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-13.15.05:366][ 59]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 7:15:05)
+[2017.05.18-13.15.05:367][ 59]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.15.05:369][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002811s)
+[2017.05.18-13.15.05:370][ 59]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.15.05:370][ 59]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2017.05.18-13.15.05:370][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003848s)
+[2017.05.18-13.15.05:557][ 59]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-13.15.05:593][ 59]LogInit: FAudioDevice initialized.
+[2017.05.18-13.15.05:626][ 59]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.15.05:630][ 59]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.15.05
+[2017.05.18-13.15.05:631][ 59]LogWorld: Bringing up level for play took: 0.003171
+[2017.05.18-13.15.05:633][ 59]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: -0.259
+[2017.05.18-13.15.09:631][496]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.09:831][520]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.10:031][544]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.10:231][568]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.10:431][592]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.10:631][616]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.10:831][640]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.11:517][722]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.11:717][746]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.11:917][770]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.12:117][794]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.12:317][818]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.12:517][842]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.12:717][866]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.12:917][890]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.13:117][914]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.13:317][938]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.13:517][962]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.14:145][ 37]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.14:345][ 61]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.14:545][ 85]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.14:745][109]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.15:331][179]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.15:531][203]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.15:731][227]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.15:933][251]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.16:134][275]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.16:333][299]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.16:534][323]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.16:733][347]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.16:933][371]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.17:135][395]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.17:335][419]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.17:535][443]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.17:735][467]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.17:935][491]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.18:136][515]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.18:336][539]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.18:536][563]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.18:737][587]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.18:937][611]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.19:137][635]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.19:338][659]LogBlueprintUserMessages: [HUD_C_62] 1.0
+[2017.05.18-13.15.44:444][436]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.16.21:552][436]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2017.05.18-13.16.21:552][436]LogPlayLevel: [PlayLevel] Compiling EnemyBP before play...
+[2017.05.18-13.16.25:921][436]LogPlayLevel: PlayLevel: Blueprint regeneration took 4369 ms (1 blueprints)
+[2017.05.18-13.16.25:921][436]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 7:16:25)
+[2017.05.18-13.16.25:921][436]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.16.25:923][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002523s)
+[2017.05.18-13.16.25:924][436]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.16.25:924][436]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2017.05.18-13.16.25:924][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003631s)
+[2017.05.18-13.16.25:950][436]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-13.16.25:995][436]LogInit: FAudioDevice initialized.
+[2017.05.18-13.16.26:051][436]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.16.26:057][436]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.16.26
+[2017.05.18-13.16.26:058][436]LogWorld: Bringing up level for play took: 0.004962
+[2017.05.18-13.16.26:062][436]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 4.169
+[2017.05.18-13.16.28:976][738]LogBlueprintUserMessages: [HUD_C_63] 0.8
+[2017.05.18-13.16.29:176][762]LogBlueprintUserMessages: [HUD_C_63] 0.6
+[2017.05.18-13.16.29:376][786]LogBlueprintUserMessages: [HUD_C_63] 0.4
+[2017.05.18-13.16.29:576][810]LogBlueprintUserMessages: [HUD_C_63] 0.2
+[2017.05.18-13.16.29:783][834]LogBlueprintUserMessages: [HUD_C_63] 0.0
+[2017.05.18-13.16.29:883][834]Cmd: restartlevel
+[2017.05.18-13.16.29:984][835]LogNet: Browse: /Game/Levels/Baselevel?restart
+[2017.05.18-13.16.30:032][835]LogLoad: LoadMap: /Game/Levels/Baselevel
+[2017.05.18-13.16.30:162][835]LogTemp:Display: Removed shader map 0x0000000072D3D600 from material 0x0000000156CF1080
+[2017.05.18-13.16.30:163][835]Cmd: MEM
+[2017.05.18-13.16.30:208][835]LogMemory: Platform Memory Stats for Windows
+[2017.05.18-13.16.30:208][835]LogMemory: Process Physical Memory: 3180.93 MB used, 3229.98 MB peak
+[2017.05.18-13.16.30:208][835]LogMemory: Process Virtual Memory: 5179.20 MB used, 5363.39 MB peak
+[2017.05.18-13.16.30:208][835]LogMemory: Physical Memory: 7622.27 MB used,  521.59 MB free, 8143.85 MB total
+[2017.05.18-13.16.30:208][835]LogMemory: Virtual Memory: 5881.70 MB used,  521.59 MB free, 8388608.00 MB total
+[2017.05.18-13.16.30:208][835]LogMemory: 
+[2017.05.18-13.16.30:208][835]Allocator Stats for TBB: (not implemented)
+[2017.05.18-13.16.30:254][835]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.16.30:258][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004428s)
+[2017.05.18-13.16.30:259][835]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.16.30:260][835]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2017.05.18-13.16.30:260][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.005964s)
+[2017.05.18-13.16.30:260][835]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.16.30:266][835]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.16.30
+[2017.05.18-13.16.30:267][835]LogWorld: Bringing up level for play took: 0.004783
+[2017.05.18-13.16.30:295][835]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.05.18-13.16.30:357][835]LogLoad: Took 0.324925 seconds to LoadMap(/Game/Levels/UEDPIE_0_Baselevel)
+[2017.05.18-13.16.36:948][570]LogBlueprintUserMessages: [HUD_C_64] 0.8
+[2017.05.18-13.16.37:148][594]LogBlueprintUserMessages: [HUD_C_64] 0.6
+[2017.05.18-13.16.37:353][617]LogBlueprintUserMessages: [HUD_C_64] 0.4
+[2017.05.18-13.16.37:553][641]LogBlueprintUserMessages: [HUD_C_64] 0.2
+[2017.05.18-13.16.37:753][665]LogBlueprintUserMessages: [HUD_C_64] 0.0
+[2017.05.18-13.16.37:753][665]Cmd: restartlevel
+[2017.05.18-13.16.37:760][666]LogNet: Browse: /Game/Levels/Baselevel?restart
+[2017.05.18-13.16.37:760][666]LogLoad: LoadMap: /Game/Levels/Baselevel
+[2017.05.18-13.16.37:782][666]Cmd: MEM
+[2017.05.18-13.16.37:800][666]LogMemory: Platform Memory Stats for Windows
+[2017.05.18-13.16.37:800][666]LogMemory: Process Physical Memory: 3180.97 MB used, 3229.98 MB peak
+[2017.05.18-13.16.37:800][666]LogMemory: Process Virtual Memory: 5071.16 MB used, 5363.39 MB peak
+[2017.05.18-13.16.37:800][666]LogMemory: Physical Memory: 7626.43 MB used,  517.42 MB free, 8143.85 MB total
+[2017.05.18-13.16.37:800][666]LogMemory: Virtual Memory: 5773.82 MB used,  517.42 MB free, 8388608.00 MB total
+[2017.05.18-13.16.37:800][666]LogMemory: 
+[2017.05.18-13.16.37:800][666]Allocator Stats for TBB: (not implemented)
+[2017.05.18-13.16.37:800][666]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.16.37:803][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002545s)
+[2017.05.18-13.16.37:803][666]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.16.37:803][666]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2017.05.18-13.16.37:803][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003482s)
+[2017.05.18-13.16.37:803][666]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.16.37:807][666]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.16.37
+[2017.05.18-13.16.37:807][666]LogWorld: Bringing up level for play took: 0.002585
+[2017.05.18-13.16.37:808][666]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.05.18-13.16.37:809][666]LogLoad: Took 0.048636 seconds to LoadMap(/Game/Levels/UEDPIE_0_Baselevel)
+[2017.05.18-13.16.40:998][  4]LogBlueprintUserMessages: [HUD_C_65] 0.8
+[2017.05.18-13.16.41:198][ 28]LogBlueprintUserMessages: [HUD_C_65] 0.6
+[2017.05.18-13.16.41:398][ 52]LogBlueprintUserMessages: [HUD_C_65] 0.4
+[2017.05.18-13.16.41:598][ 76]LogBlueprintUserMessages: [HUD_C_65] 0.2
+[2017.05.18-13.16.47:518][782]LogBlueprintUserMessages: [HUD_C_65] 0.0
+[2017.05.18-13.16.47:518][782]Cmd: restartlevel
+[2017.05.18-13.16.47:526][783]LogNet: Browse: /Game/Levels/Baselevel?restart
+[2017.05.18-13.16.47:526][783]LogLoad: LoadMap: /Game/Levels/Baselevel
+[2017.05.18-13.16.47:549][783]Cmd: MEM
+[2017.05.18-13.16.47:568][783]LogMemory: Platform Memory Stats for Windows
+[2017.05.18-13.16.47:568][783]LogMemory: Process Physical Memory: 3180.97 MB used, 3229.98 MB peak
+[2017.05.18-13.16.47:568][783]LogMemory: Process Virtual Memory: 5107.22 MB used, 5363.39 MB peak
+[2017.05.18-13.16.47:568][783]LogMemory: Physical Memory: 7632.07 MB used,  511.79 MB free, 8143.85 MB total
+[2017.05.18-13.16.47:568][783]LogMemory: Virtual Memory: 5809.82 MB used,  511.79 MB free, 8388608.00 MB total
+[2017.05.18-13.16.47:568][783]LogMemory: 
+[2017.05.18-13.16.47:568][783]Allocator Stats for TBB: (not implemented)
+[2017.05.18-13.16.47:568][783]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.16.47:570][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002324s)
+[2017.05.18-13.16.47:571][783]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.16.47:571][783]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2017.05.18-13.16.47:571][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003152s)
+[2017.05.18-13.16.47:571][783]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.16.47:575][783]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.16.47
+[2017.05.18-13.16.47:576][783]LogWorld: Bringing up level for play took: 0.003697
+[2017.05.18-13.16.47:576][783]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.05.18-13.16.47:577][783]LogLoad: Took 0.051243 seconds to LoadMap(/Game/Levels/UEDPIE_0_Baselevel)
+[2017.05.18-13.16.50:778][118]LogBlueprintUserMessages: [HUD_C_66] 0.8
+[2017.05.18-13.16.52:657][342]LogBlueprintUserMessages: [HUD_C_66] 0.6
+[2017.05.18-13.16.52:857][366]LogBlueprintUserMessages: [HUD_C_66] 0.4
+[2017.05.18-13.17.01:753][638]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.17.38:608][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-13.17.38:609][638]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 7:17:38)
+[2017.05.18-13.17.38:609][638]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.17.38:611][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002187s)
+[2017.05.18-13.17.38:611][638]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.17.38:612][638]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2017.05.18-13.17.38:612][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003041s)
+[2017.05.18-13.17.38:639][638]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-13.17.38:702][638]LogInit: FAudioDevice initialized.
+[2017.05.18-13.17.38:731][638]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.17.38:734][638]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.17.38
+[2017.05.18-13.17.38:735][638]LogWorld: Bringing up level for play took: 0.002381
+[2017.05.18-13.17.38:736][638]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.842
+[2017.05.18-13.19.24:550][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Baselevel" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.18-13.19.24:715][ 64]LogSavePackage: Save=73.47ms
+[2017.05.18-13.19.24:715][ 64]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/BaselevelF55341F341F83BB2BFCE919AB25B259F.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap'
+[2017.05.18-13.19.24:719][ 64]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap
+[2017.05.18-13.19.24:739][ 64]LogFileHelpers: Saving map 'Baselevel' took 1.574
+[2017.05.18-13.19.24:757][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.05.18-13.19.24:829][ 64]LogSavePackage: Save=65.30ms
+[2017.05.18-13.19.24:829][ 64]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/EnemyBPF78B0703400E36E1B6E37DB17CED27BC.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyBP.uasset'
+[2017.05.18-13.19.24:833][ 64]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyBP.uasset

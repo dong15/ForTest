@@ -299,3 +299,100 @@ Localization Resource: (C:/Program Files (x86)/Epic/UE_4.15/Engine/Content/Local
 [2017.05.18-10.23.15:562][957]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Baselevel2F2E31B14228247BB5C3BDB6B3E326DD.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap'
 [2017.05.18-10.23.15:564][957]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap
 [2017.05.18-10.23.15:614][957]LogFileHelpers: Saving map 'Baselevel' took 1.514
+[2017.05.18-10.26.37:885][218]LogSlate: Took 0.029101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.05.18-10.28.00:759][952]LogEditorTransaction: Undo 컴포넌트 변경
+[2017.05.18-10.28.27:509][376]BlueprintLog: New page: HeroBP 컴파일
+[2017.05.18-10.28.40:403][979]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.05.18-10.28.47:653][ 60]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ForTest0518
+
+[2017.05.18-10.28.47:653][ 60]LogTemp:Display: CWD: C:\Program Files (x86)\Epic\UE_4.15\Engine\Binaries\DotNET\IOS
+
+[2017.05.18-10.28.47:653][ 60]LogTemp:Display: Initial Dir: C:\Program Files (x86)\Epic\UE_4.15
+
+[2017.05.18-10.28.47:653][ 60]LogTemp:Display: Env CWD: C:\Program Files (x86)\Epic\UE_4.15\Engine\Binaries\DotNET\IOS
+
+[2017.05.18-10.28.47:653][ 60]LogTemp:Display: BranchPath = HOON-PC/C/Program Files (x86)/Epic/UE_4.15/Engine/Binaries --- GameBranchPath = HOON-PC/C/Program Files (x86)/Epic/UE_4.15/Engine/Binaries
+
+[2017.05.18-10.28.48:985][ 64]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: 'C:\Users\hoon\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles' ?????? ?Ϻθ? ã?? ?? ?????ϴ?.
+
+[2017.05.18-10.28.48:985][ 64]LogTemp:Display:    ??ġ: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.05.18-10.28.48:985][ 64]LogTemp:Display:    ??ġ: System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.05.18-10.28.48:985][ 64]LogTemp:Display:    ??ġ: System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+
+[2017.05.18-10.28.48:985][ 64]LogTemp:Display:    ??ġ: System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.05.18-10.28.48:985][ 64]LogTemp:Display:    ??ġ: iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.05.18-10.28.48:985][ 64]LogTemp:Display:    ??ġ: iPhonePackager.Program.Main(String[] args)
+
+[2017.05.18-10.31.40:433][668]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-10.33.02:309][ 92]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Baselevel' took 0.025
+[2017.05.18-10.33.02:311][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Hero/HeroBP] ([1] browsable assets)...
+[2017.05.18-10.33.02:331][ 92]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Hero/HeroBP.HeroBP]
+[2017.05.18-10.33.02:331][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hero/HeroBP]
+[2017.05.18-10.33.02:331][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.05.18-10.33.02:369][ 92]LogSavePackage: Save=35.44ms
+[2017.05.18-10.33.02:369][ 92]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HeroBP_Auto24FEF55E64BB45433158008AA65F8705D.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto2.uasset'
+[2017.05.18-10.33.02:372][ 92]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto2.uasset
+[2017.05.18-10.33.02:372][ 92]LogFileHelpers: Auto-saving content packages took 0.062
+[2017.05.18-10.33.48:674][925]BlueprintLog: New page: HeroBP 컴파일
+[2017.05.18-10.34.19:428][236]LogEditorTransaction: Undo 노드 추가
+[2017.05.18-10.36.21:473][699]LogEditorTransaction: Undo 노드 추가
+[2017.05.18-10.36.58:302][786]BlueprintLog: New page: HeroBP 컴파일
+[2017.05.18-10.37.52:756][756]LogEditorTransaction: Undo 노드 추가
+[2017.05.18-10.40.32:806][385]BlueprintLog: New page: HeroBP 컴파일
+[2017.05.18-10.40.41:126][104]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-10.40.41:166][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-10.40.41:166][104]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 4:40:41)
+[2017.05.18-10.40.41:167][104]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-10.40.41:170][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003293s)
+[2017.05.18-10.40.41:171][104]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-10.40.41:171][104]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2017.05.18-10.40.41:171][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.004442s)
+[2017.05.18-10.40.41:279][104]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-10.40.41:319][104]LogInit: FAudioDevice initialized.
+[2017.05.18-10.40.41:398][104]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-10.40.41:401][104]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-19.40.41
+[2017.05.18-10.40.41:416][104]LogWorld: Bringing up level for play took: 0.016285
+[2017.05.18-10.40.42:527][104]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2017.05.18-10.40.42:555][104]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.786
+[2017.05.18-10.40.47:167][505]Cmd: TRANSACTION UNDO
+[2017.05.18-10.40.47:167][505]LogEditorTransaction: Undo 액터 생성
+[2017.05.18-10.40.51:796][ 29]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.05.18-10.40.52:756][128]Cmd: DELETE
+[2017.05.18-10.40.52:756][128]Cmd: ACTOR DELETE
+[2017.05.18-10.40.52:920][128]LogEditorActor: Deleted Actor: PlayerStart
+[2017.05.18-10.40.52:948][128]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2017.05.18-10.40.54:859][343]Cmd: TRANSACTION UNDO
+[2017.05.18-10.40.54:859][343]LogEditorTransaction: Undo 액터 삭제
+[2017.05.18-10.41.15:200][548]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.05.18-10.41.16:088][642]Cmd: DELETE
+[2017.05.18-10.41.16:088][642]Cmd: ACTOR DELETE
+[2017.05.18-10.41.16:089][642]LogEditorActor: Deleted Actor: PlayerStart
+[2017.05.18-10.41.16:104][642]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2017.05.18-10.41.17:113][762]LogEditorViewport: Clicking on Actor (LMB): HeroBP_C (HeroBP)
+[2017.05.18-10.41.25:913][605]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-10.41.25:925][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-10.41.25:925][605]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 4:41:25)
+[2017.05.18-10.41.25:926][605]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-10.41.25:928][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002294s)
+[2017.05.18-10.41.25:928][605]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-10.41.25:929][605]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2017.05.18-10.41.25:929][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003210s)
+[2017.05.18-10.41.25:973][605]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-10.41.25:990][605]LogInit: FAudioDevice initialized.
+[2017.05.18-10.41.26:018][605]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-10.41.26:020][605]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-19.41.26
+[2017.05.18-10.41.26:021][605]LogWorld: Bringing up level for play took: 0.001495
+[2017.05.18-10.41.26:022][605]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.252
+[2017.05.18-10.41.35:325][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Baselevel" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.18-10.41.35:403][487]LogSavePackage: Save=38.91ms
+[2017.05.18-10.41.35:403][487]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Baselevel0781994F46032BA69D569D800878398D.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap'
+[2017.05.18-10.41.35:406][487]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap
+[2017.05.18-10.41.35:419][487]LogFileHelpers: Saving map 'Baselevel' took 0.301
+[2017.05.18-10.41.35:436][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset" SILENT=true
+[2017.05.18-10.41.35:512][487]LogSavePackage: Save=73.95ms
+[2017.05.18-10.41.35:512][487]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HeroBP25C1E54F456C0C704BE4C3881DCDD4FA.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset'
+[2017.05.18-10.41.35:515][487]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset

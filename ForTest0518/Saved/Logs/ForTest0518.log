@@ -396,3 +396,285 @@ Localization Resource: (C:/Program Files (x86)/Epic/UE_4.15/Engine/Content/Local
 [2017.05.18-10.41.35:512][487]LogSavePackage: Save=73.95ms
 [2017.05.18-10.41.35:512][487]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HeroBP25C1E54F456C0C704BE4C3881DCDD4FA.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset'
 [2017.05.18-10.41.35:515][487]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset
+[2017.05.18-10.42.35:220][659]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-10.42.35:231][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-10.42.35:232][659]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 4:42:35)
+[2017.05.18-10.42.35:232][659]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-10.42.35:234][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002343s)
+[2017.05.18-10.42.35:235][659]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-10.42.35:235][659]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2017.05.18-10.42.35:235][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003257s)
+[2017.05.18-10.42.35:283][659]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-10.42.35:300][659]LogInit: FAudioDevice initialized.
+[2017.05.18-10.42.35:328][659]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-10.42.35:330][659]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-19.42.35
+[2017.05.18-10.42.35:331][659]LogWorld: Bringing up level for play took: 0.001569
+[2017.05.18-10.42.35:332][659]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: -0.439
+[2017.05.18-10.43.53:001][847]LogMetaData: Removing '/Game/Hero/HeroAnimationBP.HeroAnimationBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Hero/NewAnimBlueprint.PackageMetaData'
+[2017.05.18-10.43.53:001][847]LogMetaData: Removing '/Game/Hero/HeroAnimationBP.SKEL_HeroAnimationBP_C' ref from Metadata '/Game/Hero/NewAnimBlueprint.PackageMetaData'
+[2017.05.18-10.43.53:001][847]LogMetaData: Removing '/Game/Hero/HeroAnimationBP.HeroAnimationBP_C' ref from Metadata '/Game/Hero/NewAnimBlueprint.PackageMetaData'
+[2017.05.18-10.43.53:001][847]LogMetaData: Removing '/Game/Hero/HeroAnimationBP.HeroAnimationBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Hero/NewAnimBlueprint.PackageMetaData'
+[2017.05.18-10.43.53:059][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroAnimationBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroAnimationBP.uasset" SILENT=true
+[2017.05.18-10.43.53:076][847]LogSavePackage: Save=14.58ms
+[2017.05.18-10.43.53:076][847]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HeroAnimationBPB4226C4048DB31194BA6EC8F6A46CC87.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroAnimationBP.uasset'
+[2017.05.18-10.43.53:080][847]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroAnimationBP.uasset
+[2017.05.18-10.44.48:258][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/Herolocomotion" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/Herolocomotion.uasset" SILENT=true
+[2017.05.18-10.44.48:271][ 48]LogSavePackage: Save=10.62ms
+[2017.05.18-10.44.48:271][ 48]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Herolocomotion805347E84423ACA0FCAB4D9ADB3592E9.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/Herolocomotion.uasset'
+[2017.05.18-10.44.48:274][ 48]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/Herolocomotion.uasset
+[2017.05.18-10.45.00:395][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/Herolocomotion" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/Herolocomotion.uasset" SILENT=true
+[2017.05.18-10.45.00:416][595]LogSavePackage: Save=16.34ms
+[2017.05.18-10.45.00:416][595]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Herolocomotion7DD8051F4F3628137D1C99B2785DCE97.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/Herolocomotion.uasset'
+[2017.05.18-10.45.00:420][595]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/Herolocomotion.uasset
+[2017.05.18-10.45.10:277][857]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.05.18-10.45.10:597][857]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.18-10.45.10:651][857]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.05.18-10.45.14:149][ 57]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2017.05.18-10.45.14:323][ 58]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2017.05.18-10.45.14:378][ 60]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2017.05.18-10.45.14:517][ 67]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2017.05.18-10.45.14:574][ 69]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2017.05.18-10.45.16:832][198]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Enemy_Walk.Enemy_Walk
+[2017.05.18-10.45.17:065][211]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Enemy_Idle.Enemy_Idle
+[2017.05.18-10.45.17:103][212]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Death_3.Death_3
+[2017.05.18-10.46.04:860][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Death_1.Death_1
+[2017.05.18-10.46.04:884][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Death_2.Death_2
+[2017.05.18-10.47.10:291][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/Herolocomotion" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/Herolocomotion.uasset" SILENT=true
+[2017.05.18-10.47.10:307][499]LogSavePackage: Save=12.84ms
+[2017.05.18-10.47.10:307][499]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Herolocomotion51CE0FB045317EB4EEE680ADCE80E08B.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/Herolocomotion.uasset'
+[2017.05.18-10.47.10:310][499]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/Herolocomotion.uasset
+[2017.05.18-10.47.24:241][ 47]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.05.18-10.47.24:282][ 47]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.05.18-10.47.27:189][209]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.05.18-10.47.27:234][209]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2017.05.18-10.49.02:644][756]Cmd: TRANSACTION UNDO
+[2017.05.18-10.49.02:644][756]LogEditorTransaction: Undo 소켓 회전
+[2017.05.18-10.49.02:674][756]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.18-10.49.02:687][756]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.05.18-10.49.02:691][756]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.05.18-10.49.04:410][850]Cmd: TRANSACTION UNDO
+[2017.05.18-10.49.04:410][850]LogEditorTransaction: Undo 스켈레톤에 애셋 붙이기
+[2017.05.18-10.49.04:431][850]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.18-10.49.04:433][850]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.05.18-10.49.04:437][850]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.05.18-10.49.06:272][963]Cmd: TRANSACTION UNDO
+[2017.05.18-10.49.06:272][963]LogEditorTransaction: Undo 메시 소켓 생성
+[2017.05.18-10.49.06:311][963]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.18-10.49.06:313][963]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.05.18-10.49.06:315][963]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.05.18-10.50.13:143][489]LogSavePackage: Save=3.56ms
+[2017.05.18-10.50.13:143][489]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/UE4_Mannequin_SkeletonFF8C913E4EF2836471B66B9220176C4B.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2017.05.18-10.50.13:146][489]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset
+[2017.05.18-10.50.24:022][103]LogSavePackage: Save=3.67ms
+[2017.05.18-10.50.24:022][103]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/UE4_Mannequin_Skeleton1DF7D3A749021E9B16281BBACB5BF443.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2017.05.18-10.50.24:024][103]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset
+[2017.05.18-10.51.05:084][477]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-10.51.05:095][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-10.51.05:095][477]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 4:51:05)
+[2017.05.18-10.51.05:096][477]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-10.51.05:098][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002494s)
+[2017.05.18-10.51.05:099][477]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-10.51.05:099][477]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2017.05.18-10.51.05:099][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003479s)
+[2017.05.18-10.51.05:148][477]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-10.51.05:166][477]LogInit: FAudioDevice initialized.
+[2017.05.18-10.51.05:192][477]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-10.51.05:195][477]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-19.51.05
+[2017.05.18-10.51.05:195][477]LogWorld: Bringing up level for play took: 0.001600
+[2017.05.18-10.51.05:196][477]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: -0.582
+[2017.05.18-10.51.27:249][583]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-10.51.31:683][844]BlueprintLog: New page: HeroBP 컴파일
+[2017.05.18-10.51.31:915][844]LogUObjectGlobals:Warning: Guid referenced by CapsuleComponent /Game/Levels/Baselevel.Baselevel:PersistentLevel.HeroBP_235.CollisionCylinder is already used by CapsuleComponent /Game/Levels/Baselevel.Baselevel:PersistentLevel.REINST_HeroBP_C_0.CollisionCylinder, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.05.18-10.51.31:915][844]LogUObjectGlobals:Warning: Guid referenced by ArrowComponent /Game/Levels/Baselevel.Baselevel:PersistentLevel.HeroBP_235.Arrow is already used by ArrowComponent /Game/Levels/Baselevel.Baselevel:PersistentLevel.REINST_HeroBP_C_0.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.05.18-10.51.31:915][844]LogUObjectGlobals:Warning: Guid referenced by CharacterMovementComponent /Game/Levels/Baselevel.Baselevel:PersistentLevel.HeroBP_235.CharMoveComp is already used by CharacterMovementComponent /Game/Levels/Baselevel.Baselevel:PersistentLevel.REINST_HeroBP_C_0.CharMoveComp, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.05.18-10.51.31:915][844]LogUObjectGlobals:Warning: Guid referenced by SkeletalMeshComponent /Game/Levels/Baselevel.Baselevel:PersistentLevel.HeroBP_235.CharacterMesh0 is already used by SkeletalMeshComponent /Game/Levels/Baselevel.Baselevel:PersistentLevel.REINST_HeroBP_C_0.CharacterMesh0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.05.18-10.51.53:015][346]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.05.18-10.51.53:311][346]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2017.05.18-10.53.13:251][ 24]BlueprintLog: New page: HeroAnimationBP 컴파일
+[2017.05.18-10.53.13:368][ 24]BlueprintEditorCompileResults: 정보  Result  was visible but ignored
+[2017.05.18-10.53.20:857][487]BlueprintLog: New page: HeroAnimationBP 컴파일
+[2017.05.18-10.55.34:682][539]BlueprintLog: New page: HeroAnimationBP 컴파일
+[2017.05.18-10.55.42:674][ 75]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-10.55.42:685][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-10.55.42:685][ 75]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 4:55:42)
+[2017.05.18-10.55.42:685][ 75]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-10.55.42:687][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002500s)
+[2017.05.18-10.55.42:688][ 75]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-10.55.42:688][ 75]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2017.05.18-10.55.42:688][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003489s)
+[2017.05.18-10.55.42:732][ 75]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-10.55.42:750][ 75]LogInit: FAudioDevice initialized.
+[2017.05.18-10.55.42:777][ 75]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-10.55.42:780][ 75]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-19.55.42
+[2017.05.18-10.55.42:780][ 75]LogWorld: Bringing up level for play took: 0.001726
+[2017.05.18-10.55.42:781][ 75]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 1
+[2017.05.18-10.57.13:683][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroAnimationBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroAnimationBP.uasset" SILENT=true
+[2017.05.18-10.57.13:735][ 33]LogSavePackage: Save=23.63ms
+[2017.05.18-10.57.13:735][ 33]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HeroAnimationBP9D1E76CB44951E43352D3AA6D3BC33F0.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroAnimationBP.uasset'
+[2017.05.18-10.57.13:739][ 33]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroAnimationBP.uasset
+[2017.05.18-10.57.16:418][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset" SILENT=true
+[2017.05.18-10.57.16:463][198]LogSavePackage: Save=41.04ms
+[2017.05.18-10.57.16:463][198]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HeroBPE3F5D5B3408492A3899CE88B275536B1.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset'
+[2017.05.18-10.57.16:467][198]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset
+[2017.05.18-10.57.54:163][728]LogSavePackage: Save=39.47ms
+[2017.05.18-10.57.54:163][728]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Baselevel_Auto3B960AC0A4E10321001967C942FAFC9C4.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Levels/Baselevel_Auto3.umap'
+[2017.05.18-10.57.54:165][728]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Levels/Baselevel_Auto3.umap
+[2017.05.18-10.57.54:168][728]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Baselevel' took 0.091
+[2017.05.18-10.57.54:168][728]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.091
+[2017.05.18-10.57.54:185][728]LogSavePackage: Save=1.86ms
+[2017.05.18-10.57.54:185][728]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/NewAnimBlueprint_Auto397177F7E4490C351876110B54FD512CA.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/NewAnimBlueprint_Auto3.uasset'
+[2017.05.18-10.57.54:186][728]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/NewAnimBlueprint_Auto3.uasset
+[2017.05.18-10.57.54:190][728]LogSavePackage: Save=1.66ms
+[2017.05.18-10.57.54:190][728]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/NewBlendSpace_Auto3BF1704D44F5ECB285AE81A88428698FE.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/NewBlendSpace_Auto3.uasset'
+[2017.05.18-10.57.54:191][728]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/NewBlendSpace_Auto3.uasset
+[2017.05.18-10.57.54:192][728]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Gun/NewBlueprint] ([1] browsable assets)...
+[2017.05.18-10.57.54:192][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gun/NewBlueprint]
+[2017.05.18-10.57.54:204][728]LogSavePackage: Save=10.10ms
+[2017.05.18-10.57.54:204][728]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/NewBlueprint_Auto3A7A3C61F48D53B1EB93E3EA466E7164B.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Gun/NewBlueprint_Auto3.uasset'
+[2017.05.18-10.57.54:208][728]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Gun/NewBlueprint_Auto3.uasset
+[2017.05.18-10.57.54:208][728]LogFileHelpers: Auto-saving content packages took 0.038
+[2017.05.18-10.58.00:625][382]LogMetaData: Removing '/Game/Gun/GunBP.GunBP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Gun/NewBlueprint.PackageMetaData'
+[2017.05.18-10.58.00:625][382]LogMetaData: Removing '/Game/Gun/GunBP.SKEL_GunBP_C' ref from Metadata '/Game/Gun/NewBlueprint.PackageMetaData'
+[2017.05.18-10.58.00:625][382]LogMetaData: Removing '/Game/Gun/GunBP.GunBP_C' ref from Metadata '/Game/Gun/NewBlueprint.PackageMetaData'
+[2017.05.18-10.58.00:625][382]LogMetaData: Removing '/Game/Gun/GunBP.GunBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Gun/NewBlueprint.PackageMetaData'
+[2017.05.18-10.58.00:625][382]LogMetaData: Removing '/Game/Gun/GunBP.GunBP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Gun/NewBlueprint.PackageMetaData'
+[2017.05.18-10.58.00:625][382]LogMetaData: Removing '/Game/Gun/GunBP.GunBP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Gun/NewBlueprint.PackageMetaData'
+[2017.05.18-10.58.00:653][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/GunBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/GunBP.uasset" SILENT=true
+[2017.05.18-10.58.00:665][382]LogSavePackage: Save=10.23ms
+[2017.05.18-10.58.00:665][382]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/GunBP68125780494FFFFF54B52FB540CA3258.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/GunBP.uasset'
+[2017.05.18-10.58.00:670][382]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/GunBP.uasset
+[2017.05.18-10.59.24:453][845]LogEditorTransaction: Undo Add Component
+[2017.05.18-10.59.24:471][845]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.18-10.59.24:477][845]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.05.18-10.59.24:490][845]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.05.18-10.59.24:974][864]LogEditorTransaction: Undo 새 씬 루트로 만들기
+[2017.05.18-10.59.24:984][864]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.18-10.59.24:989][864]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.05.18-10.59.24:992][864]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.05.18-11.00.03:234][339]BlueprintLog: New page: GunBP 컴파일
+[2017.05.18-11.03.20:396][882]BlueprintLog: New page: GunBP 컴파일
+[2017.05.18-11.04.25:672][222]LogEditorTransaction: Undo 컴포넌트 변경
+[2017.05.18-11.04.25:677][222]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.18-11.04.25:682][222]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.05.18-11.04.25:685][222]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.05.18-11.05.04:487][345]LogEditorTransaction: Undo 컴포넌트 변경
+[2017.05.18-11.05.04:501][345]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.18-11.05.04:505][345]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.05.18-11.05.04:508][345]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.05.18-11.06.03:823][581]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.18-11.07.44:563][291]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.18-11.08.00:823][909]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-11.08.11:267][502]BlueprintLog: New page: GunBP 컴파일
+[2017.05.18-11.08.19:832][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/GunBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/GunBP.uasset" SILENT=true
+[2017.05.18-11.08.19:863][774]LogSavePackage: Save=25.46ms
+[2017.05.18-11.08.19:863][774]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/GunBP8DF824B04BCF4BA24DEB2284170DD485.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/GunBP.uasset'
+[2017.05.18-11.08.19:867][774]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/GunBP.uasset
+[2017.05.18-11.08.25:417][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset" SILENT=true
+[2017.05.18-11.08.25:442][121]LogSavePackage: Save=22.65ms
+[2017.05.18-11.08.25:442][121]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/BulletBP7CC4DC5A4127327802903BAB942DC410.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset'
+[2017.05.18-11.08.25:445][121]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset
+[2017.05.18-11.10.14:723][291]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-11.11.35:316][954]BlueprintLog: New page: HeroBP 컴파일
+[2017.05.18-11.11.54:140][654]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-11.11.54:155][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-11.11.54:155][654]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 5:11:54)
+[2017.05.18-11.11.54:155][654]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-11.11.54:158][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002514s)
+[2017.05.18-11.11.54:158][654]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-11.11.54:158][654]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2017.05.18-11.11.54:158][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003447s)
+[2017.05.18-11.11.54:221][654]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-11.11.54:239][654]LogInit: FAudioDevice initialized.
+[2017.05.18-11.11.54:269][654]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-11.11.54:271][654]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-20.11.54
+[2017.05.18-11.11.54:272][654]LogWorld: Bringing up level for play took: 0.001856
+[2017.05.18-11.11.54:290][654]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.496
+[2017.05.18-11.12.50:322][497]LogSavePackage: Save=44.96ms
+[2017.05.18-11.12.50:322][497]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Baselevel_Auto46273A3424116932BDE1B1DBA48E6D7EB.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Levels/Baselevel_Auto4.umap'
+[2017.05.18-11.12.50:323][497]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Levels/Baselevel_Auto4.umap
+[2017.05.18-11.12.50:325][497]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Baselevel' took 0.166
+[2017.05.18-11.12.50:325][497]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.166
+[2017.05.18-11.12.50:328][497]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Hero/HeroBP] ([1] browsable assets)...
+[2017.05.18-11.12.50:344][497]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Hero/HeroBP.HeroBP]
+[2017.05.18-11.12.50:344][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hero/HeroBP]
+[2017.05.18-11.12.50:344][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2017.05.18-11.12.50:466][497]LogSavePackage: Save=67.77ms
+[2017.05.18-11.12.50:466][497]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HeroBP_Auto497B6CD834760C91857FE568AC43C4AAE.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto4.uasset'
+[2017.05.18-11.12.50:468][497]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Hero/HeroBP_Auto4.uasset
+[2017.05.18-11.12.50:493][497]LogSavePackage: Save=1.96ms
+[2017.05.18-11.12.50:493][497]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/NewBlueprint_Auto46F7BBE42436F09A5418422ACA508DA8F.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Gun/NewBlueprint_Auto4.uasset'
+[2017.05.18-11.12.50:494][497]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Gun/NewBlueprint_Auto4.uasset
+[2017.05.18-11.12.50:494][497]LogFileHelpers: Auto-saving content packages took 0.168
+[2017.05.18-11.13.21:524][303]BlueprintLog: New page: HeroBP 컴파일
+[2017.05.18-11.13.26:219][494]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-11.13.26:236][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-11.13.26:236][494]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 5:13:26)
+[2017.05.18-11.13.26:237][494]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-11.13.26:239][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002411s)
+[2017.05.18-11.13.26:240][494]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-11.13.26:240][494]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2017.05.18-11.13.26:240][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003393s)
+[2017.05.18-11.13.26:289][494]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-11.13.26:306][494]LogInit: FAudioDevice initialized.
+[2017.05.18-11.13.26:334][494]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-11.13.26:337][494]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-20.13.26
+[2017.05.18-11.13.26:337][494]LogWorld: Bringing up level for play took: 0.001652
+[2017.05.18-11.13.26:338][494]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.543
+[2017.05.18-11.13.41:715][626]BlueprintLog: New page: HeroBP 컴파일
+[2017.05.18-11.13.57:275][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset" SILENT=true
+[2017.05.18-11.13.57:324][497]LogSavePackage: Save=45.83ms
+[2017.05.18-11.13.57:324][497]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HeroBPD4CB5FA640700E2AC35DF8B1AE4B6653.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset'
+[2017.05.18-11.13.57:328][497]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset
+[2017.05.18-11.13.59:684][705]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-11.13.59:700][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-11.13.59:700][705]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 5:13:59)
+[2017.05.18-11.13.59:700][705]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-11.13.59:702][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002132s)
+[2017.05.18-11.13.59:703][705]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-11.13.59:703][705]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2017.05.18-11.13.59:703][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.002962s)
+[2017.05.18-11.13.59:750][705]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-11.13.59:767][705]LogInit: FAudioDevice initialized.
+[2017.05.18-11.13.59:795][705]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-11.13.59:798][705]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-20.13.59
+[2017.05.18-11.13.59:798][705]LogWorld: Bringing up level for play took: 0.001674
+[2017.05.18-11.13.59:799][705]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.004
+[2017.05.18-11.14.33:315][543]BlueprintLog: New page: HeroBP 컴파일
+[2017.05.18-11.14.37:781][704]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-11.14.37:797][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-11.14.37:797][704]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 5:14:37)
+[2017.05.18-11.14.37:797][704]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-11.14.37:799][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002252s)
+[2017.05.18-11.14.37:800][704]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-11.14.37:800][704]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2017.05.18-11.14.37:800][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003162s)
+[2017.05.18-11.14.37:847][704]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-11.14.37:864][704]LogInit: FAudioDevice initialized.
+[2017.05.18-11.14.37:893][704]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-11.14.37:896][704]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-20.14.37
+[2017.05.18-11.14.37:896][704]LogWorld: Bringing up level for play took: 0.001715
+[2017.05.18-11.14.37:897][704]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.101
+[2017.05.18-11.14.48:113][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Baselevel" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.18-11.14.48:180][773]LogSavePackage: Save=39.98ms
+[2017.05.18-11.14.48:180][773]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Baselevel5C2F9E2045482F15251843ADA63BEA41.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap'
+[2017.05.18-11.14.48:184][773]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap
+[2017.05.18-11.14.48:199][773]LogFileHelpers: Saving map 'Baselevel' took 0.319
+[2017.05.18-11.14.48:217][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset" SILENT=true
+[2017.05.18-11.14.48:267][773]LogSavePackage: Save=47.36ms
+[2017.05.18-11.14.48:267][773]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/HeroBPBC71B5E7417403B94323BF9D150DAF7D.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset'
+[2017.05.18-11.14.48:271][773]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/HeroBP.uasset
+[2017.05.18-11.14.48:302][773]LogSavePackage: Save=19.32ms
+[2017.05.18-11.14.48:302][773]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/UE4_Mannequin_SkeletonE522063B47FE65AFED09EC8E415989EA.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2017.05.18-11.14.48:306][773]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset
+[2017.05.18-11.14.48:310][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/NewAnimBlueprint" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/NewAnimBlueprint.uasset" SILENT=true
+[2017.05.18-11.14.48:314][773]LogSavePackage: Save=2.05ms
+[2017.05.18-11.14.48:314][773]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/NewAnimBlueprintBDF72D234B2B89C79DBD8FBA9707AE48.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/NewAnimBlueprint.uasset'
+[2017.05.18-11.14.48:317][773]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/NewAnimBlueprint.uasset
+[2017.05.18-11.14.48:323][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/NewBlendSpace" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/NewBlendSpace.uasset" SILENT=true
+[2017.05.18-11.14.48:327][773]LogSavePackage: Save=1.73ms
+[2017.05.18-11.14.48:327][773]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/NewBlendSpace75C2D8B3413C3C067D12F8BD0E09BA28.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/NewBlendSpace.uasset'
+[2017.05.18-11.14.48:330][773]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Hero/NewBlendSpace.uasset
+[2017.05.18-11.14.48:333][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/NewBlueprint" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/NewBlueprint.uasset" SILENT=true
+[2017.05.18-11.14.48:338][773]LogSavePackage: Save=2.06ms
+[2017.05.18-11.14.48:338][773]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/NewBlueprintA8D5B67E4B7CA2BCB2475B8C6995D174.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/NewBlueprint.uasset'
+[2017.05.18-11.14.48:342][773]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/NewBlueprint.uasset

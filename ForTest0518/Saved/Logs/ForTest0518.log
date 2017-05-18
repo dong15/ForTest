@@ -2594,3 +2594,79 @@ Localization Resource: (C:/Program Files (x86)/Epic/UE_4.15/Engine/Content/Local
 [2017.05.18-14.45.25:905][ 35]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-23.45.25
 [2017.05.18-14.45.25:905][ 35]LogWorld: Bringing up level for play took: 0.002128
 [2017.05.18-14.45.25:907][ 35]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: -0.057
+[2017.05.18-14.47.23:428][182]LogEditorTransaction: Undo 핀 링크 생성
+[2017.05.18-14.47.24:024][204]LogEditorTransaction: Undo 핀 링크 생성
+[2017.05.18-14.47.24:299][205]LogEditorTransaction: Undo 핀 링크 생성
+[2017.05.18-14.47.24:835][206]LogEditorTransaction: Undo 핀 링크 생성
+[2017.05.18-14.47.25:626][250]LogEditorTransaction: Undo 핀 링크 생성
+[2017.05.18-14.47.26:225][278]LogEditorTransaction: Undo 노드 이동
+[2017.05.18-14.47.26:874][311]LogEditorTransaction: Undo 노드 추가
+[2017.05.18-14.47.27:428][353]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2017.05.18-14.47.31:332][675]BlueprintLog: New page: EnemyTask 컴파일
+[2017.05.18-14.47.39:874][128]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-14.47.39:888][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-14.47.39:888][128]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 8:47:39)
+[2017.05.18-14.47.39:888][128]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-14.47.39:891][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002440s)
+[2017.05.18-14.47.39:891][128]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-14.47.39:891][128]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2017.05.18-14.47.39:892][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003532s)
+[2017.05.18-14.47.39:948][128]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-14.47.39:968][128]LogInit: FAudioDevice initialized.
+[2017.05.18-14.47.40:000][128]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-14.47.40:003][128]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-23.47.40
+[2017.05.18-14.47.40:003][128]LogWorld: Bringing up level for play took: 0.002404
+[2017.05.18-14.47.40:006][128]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.04
+[2017.05.18-14.48.10:677][871]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-14.48.58:606][583]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-14.48.58:662][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-14.48.58:662][583]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 8:48:58)
+[2017.05.18-14.48.58:662][583]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-14.48.58:770][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.107494s)
+[2017.05.18-14.48.58:771][583]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-14.48.58:771][583]LogPlayLevel: PIE: World Init took: (0.001247s)
+[2017.05.18-14.48.58:771][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.109072s)
+[2017.05.18-14.48.59:455][583]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-14.48.59:498][583]LogInit: FAudioDevice initialized.
+[2017.05.18-14.48.59:529][583]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-14.48.59:532][583]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-23.48.59
+[2017.05.18-14.48.59:533][583]LogWorld: Bringing up level for play took: 0.002327
+[2017.05.18-14.48.59:535][583]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 1.568
+[2017.05.18-14.49.07:272][380]LogBlueprintUserMessages: [HUD_C_85] 0.8
+[2017.05.18-14.49.22:969][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBB" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyBB.uasset" SILENT=true
+[2017.05.18-14.49.22:995][369]LogSavePackage: Save=2.62ms
+[2017.05.18-14.49.22:995][369]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/EnemyBB875AD115408DAF1CF710458325946460.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyBB.uasset'
+[2017.05.18-14.49.22:999][369]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyBB.uasset
+[2017.05.18-14.49.26:607][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyTask" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyTask.uasset" SILENT=true
+[2017.05.18-14.49.26:649][677]LogSavePackage: Save=18.41ms
+[2017.05.18-14.49.26:650][677]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/EnemyTask1960EF4142847C243388E28831D8A253.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyTask.uasset'
+[2017.05.18-14.49.26:655][677]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyTask.uasset
+[2017.05.18-14.49.27:459][771]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-14.49.27:480][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-14.49.27:480][771]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 8:49:27)
+[2017.05.18-14.49.27:480][771]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-14.49.27:482][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002302s)
+[2017.05.18-14.49.27:483][771]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-14.49.27:483][771]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2017.05.18-14.49.27:483][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003198s)
+[2017.05.18-14.49.27:506][771]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-14.49.27:523][771]LogInit: FAudioDevice initialized.
+[2017.05.18-14.49.27:550][771]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-14.49.27:553][771]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-23.49.27
+[2017.05.18-14.49.27:553][771]LogWorld: Bringing up level for play took: 0.001955
+[2017.05.18-14.49.27:556][771]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: -0.412
+[2017.05.18-14.49.57:328][954]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-14.49.57:349][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-14.49.57:349][954]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 8:49:57)
+[2017.05.18-14.49.57:349][954]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-14.49.57:352][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002437s)
+[2017.05.18-14.49.57:352][954]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-14.49.57:353][954]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2017.05.18-14.49.57:353][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003369s)
+[2017.05.18-14.49.57:375][954]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-14.49.57:392][954]LogInit: FAudioDevice initialized.
+[2017.05.18-14.49.57:422][954]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-14.49.57:425][954]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-23.49.57
+[2017.05.18-14.49.57:425][954]LogWorld: Bringing up level for play took: 0.001736
+[2017.05.18-14.49.57:427][954]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: -0.541
+[2017.05.18-14.50.01:998][418]LogBlueprintUserMessages: [HUD_C_87] 0.8

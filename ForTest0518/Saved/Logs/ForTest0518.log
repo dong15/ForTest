@@ -2022,3 +2022,271 @@ Localization Resource: (C:/Program Files (x86)/Epic/UE_4.15/Engine/Content/Local
 [2017.05.18-13.19.24:829][ 64]LogSavePackage: Save=65.30ms
 [2017.05.18-13.19.24:829][ 64]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/EnemyBPF78B0703400E36E1B6E37DB17CED27BC.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyBP.uasset'
 [2017.05.18-13.19.24:833][ 64]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemyBP.uasset
+[2017.05.18-13.23.26:113][299]BlueprintLog: New page: GunBP 컴파일
+[2017.05.18-13.23.35:553][767]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.23.35:569][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-13.23.35:570][767]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 7:23:35)
+[2017.05.18-13.23.35:570][767]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.23.35:572][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002483s)
+[2017.05.18-13.23.35:573][767]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.23.35:573][767]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2017.05.18-13.23.35:573][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003474s)
+[2017.05.18-13.23.35:636][767]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-13.23.35:761][767]LogInit: FAudioDevice initialized.
+[2017.05.18-13.23.35:795][767]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.23.35:800][767]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.23.35
+[2017.05.18-13.23.35:801][767]LogWorld: Bringing up level for play took: 0.003855
+[2017.05.18-13.23.35:803][767]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: -0.096
+[2017.05.18-13.25.32:003][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/GunBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/GunBP.uasset" SILENT=true
+[2017.05.18-13.25.32:340][402]LogSavePackage: Save=73.34ms
+[2017.05.18-13.25.32:340][402]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/GunBP1684287542A5A6A12306B79B6DAEE357.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/GunBP.uasset'
+[2017.05.18-13.25.32:344][402]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/GunBP.uasset
+[2017.05.18-13.29.35:346][419]LogSavePackage: Save=55.34ms
+[2017.05.18-13.29.35:346][419]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Baselevel_Auto2D424EBC5403DD80D2B4623ABBEB45A69.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Levels/Baselevel_Auto2.umap'
+[2017.05.18-13.29.35:348][419]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Levels/Baselevel_Auto2.umap
+[2017.05.18-13.29.35:372][419]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Baselevel' took 0.192
+[2017.05.18-13.29.35:372][419]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.192
+[2017.05.18-13.29.35:381][419]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/EnemySpawnBP] ([1] browsable assets)...
+[2017.05.18-13.29.35:381][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/EnemySpawnBP]
+[2017.05.18-13.29.35:394][419]LogSavePackage: Save=11.75ms
+[2017.05.18-13.29.35:394][419]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/EnemySpawnBP_Auto284C3E03C439E4E34CF776EB8ED6C4650.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Enemy/EnemySpawnBP_Auto2.uasset'
+[2017.05.18-13.29.35:399][419]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Enemy/EnemySpawnBP_Auto2.uasset
+[2017.05.18-13.29.35:399][419]LogFileHelpers: Auto-saving content packages took 0.025
+[2017.05.18-13.31.26:709][940]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.05.18-13.31.44:068][821]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ForTest0518
+
+[2017.05.18-13.31.44:068][821]LogTemp:Display: CWD: C:\Program Files (x86)\Epic\UE_4.15\Engine\Binaries\DotNET\IOS
+
+[2017.05.18-13.31.44:068][821]LogTemp:Display: Initial Dir: C:\Program Files (x86)\Epic\UE_4.15
+
+[2017.05.18-13.31.44:068][821]LogTemp:Display: Env CWD: C:\Program Files (x86)\Epic\UE_4.15\Engine\Binaries\DotNET\IOS
+
+[2017.05.18-13.31.44:068][821]LogTemp:Display: BranchPath = HOON-PC/C/Program Files (x86)/Epic/UE_4.15/Engine/Binaries --- GameBranchPath = HOON-PC/C/Program Files (x86)/Epic/UE_4.15/Engine/Binaries
+
+[2017.05.18-13.31.45:469][917]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: 'C:\Users\hoon\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles' ?????? ?Ϻθ? ã?? ?? ?????ϴ?.
+
+[2017.05.18-13.31.45:469][917]LogTemp:Display:    ??ġ: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.05.18-13.31.45:469][917]LogTemp:Display:    ??ġ: System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.05.18-13.31.45:469][917]LogTemp:Display:    ??ġ: System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+
+[2017.05.18-13.31.45:469][917]LogTemp:Display:    ??ġ: System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.05.18-13.31.45:469][917]LogTemp:Display:    ??ġ: iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.05.18-13.31.45:469][917]LogTemp:Display:    ??ġ: iPhonePackager.Program.Main(String[] args)
+
+[2017.05.18-13.31.57:123][968]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.31.57:143][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-13.31.57:143][968]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 7:31:57)
+[2017.05.18-13.31.57:143][968]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.31.57:146][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002669s)
+[2017.05.18-13.31.57:147][968]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.31.57:147][968]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2017.05.18-13.31.57:147][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003663s)
+[2017.05.18-13.31.57:306][968]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-13.31.57:391][968]LogInit: FAudioDevice initialized.
+[2017.05.18-13.31.57:430][968]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.31.57:436][968]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.31.57
+[2017.05.18-13.31.57:437][968]LogWorld: Bringing up level for play took: 0.004932
+[2017.05.18-13.31.57:440][968]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: -0.466
+[2017.05.18-13.35.09:261][374]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.18-13.35.12:411][591]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.35.12:442][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-13.35.12:442][591]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 7:35:12)
+[2017.05.18-13.35.12:442][591]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.35.12:445][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002688s)
+[2017.05.18-13.35.12:445][591]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.35.12:445][591]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2017.05.18-13.35.12:446][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003676s)
+[2017.05.18-13.35.12:493][591]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-13.35.12:531][591]LogInit: FAudioDevice initialized.
+[2017.05.18-13.35.12:563][591]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.35.12:566][591]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.35.12
+[2017.05.18-13.35.12:567][591]LogWorld: Bringing up level for play took: 0.002506
+[2017.05.18-13.35.12:568][591]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.66
+[2017.05.18-13.35.39:092][204]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.18-13.36.01:682][547]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-13.36.58:529][935]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.18-13.37.01:887][129]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.37.01:903][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-13.37.01:903][129]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 7:37:01)
+[2017.05.18-13.37.01:903][129]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.37.01:906][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002568s)
+[2017.05.18-13.37.01:906][129]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.37.01:906][129]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2017.05.18-13.37.01:907][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003454s)
+[2017.05.18-13.37.01:932][129]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-13.37.01:949][129]LogInit: FAudioDevice initialized.
+[2017.05.18-13.37.01:980][129]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.37.01:983][129]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.37.01
+[2017.05.18-13.37.01:983][129]LogWorld: Bringing up level for play took: 0.002586
+[2017.05.18-13.37.01:985][129]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.076
+[2017.05.18-13.37.18:394][231]LogEditorTransaction: Undo 컴포넌트 변경
+[2017.05.18-13.37.19:461][279]LogEditorTransaction: Undo 컴포넌트 변경
+[2017.05.18-13.37.20:050][314]LogEditorTransaction: Undo 컴포넌트 변경
+[2017.05.18-13.37.26:383][708]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.18-13.37.38:168][266]BlueprintLog: New page: GunBP 컴파일
+[2017.05.18-13.37.40:256][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/GunBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/GunBP.uasset" SILENT=true
+[2017.05.18-13.37.40:464][311]LogSavePackage: Save=28.54ms
+[2017.05.18-13.37.40:464][311]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/GunBPC19B792E442291ECC5EF47B4BCB3EEA2.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/GunBP.uasset'
+[2017.05.18-13.37.40:468][311]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/GunBP.uasset
+[2017.05.18-13.37.50:051][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Baselevel" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.18-13.37.50:226][106]LogSavePackage: Save=59.45ms
+[2017.05.18-13.37.50:226][106]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Baselevel8D7B3122489EFD300571E0B29C460CE8.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap'
+[2017.05.18-13.37.51:593][106]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Levels/Baselevel.umap
+[2017.05.18-13.37.51:617][106]LogFileHelpers: Saving map 'Baselevel' took 2.705
+[2017.05.18-13.37.51:649][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset" SILENT=true
+[2017.05.18-13.37.51:679][106]LogSavePackage: Save=23.53ms
+[2017.05.18-13.37.51:679][106]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/BulletBP103A7ACF4C83570C90E89499A8F72473.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset'
+[2017.05.18-13.37.51:683][106]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset
+[2017.05.18-13.37.51:686][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemySpawnBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemySpawnBP.uasset" SILENT=true
+[2017.05.18-13.37.51:698][106]LogSavePackage: Save=10.40ms
+[2017.05.18-13.37.51:698][106]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/EnemySpawnBPC92908A3439ABFF721C2D9A316BEB058.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemySpawnBP.uasset'
+[2017.05.18-13.37.51:703][106]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemySpawnBP.uasset
+[2017.05.18-13.37.52:633][189]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.37.52:651][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-13.37.52:651][189]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 7:37:52)
+[2017.05.18-13.37.52:651][189]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.37.52:653][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002364s)
+[2017.05.18-13.37.52:654][189]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.37.52:654][189]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2017.05.18-13.37.52:654][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003320s)
+[2017.05.18-13.37.52:679][189]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-13.37.52:696][189]LogInit: FAudioDevice initialized.
+[2017.05.18-13.37.52:777][189]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.37.52:780][189]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.37.52
+[2017.05.18-13.37.52:780][189]LogWorld: Bringing up level for play took: 0.002455
+[2017.05.18-13.37.52:782][189]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.872
+[2017.05.18-13.38.19:592][771]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.18-13.38.22:300][939]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.38.22:316][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-13.38.22:316][939]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 7:38:22)
+[2017.05.18-13.38.22:316][939]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.38.22:319][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002301s)
+[2017.05.18-13.38.22:319][939]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.38.22:319][939]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2017.05.18-13.38.22:319][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003151s)
+[2017.05.18-13.38.22:348][939]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-13.38.22:365][939]LogInit: FAudioDevice initialized.
+[2017.05.18-13.38.22:397][939]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.38.22:400][939]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.38.22
+[2017.05.18-13.38.22:401][939]LogWorld: Bringing up level for play took: 0.002487
+[2017.05.18-13.38.22:402][939]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.491
+[2017.05.18-13.38.39:357][916]LogEditorTransaction: Undo 컴포넌트 변경
+[2017.05.18-13.39.30:629][308]LogEditorTransaction: Undo 컴포넌트 변경
+[2017.05.18-13.39.55:619][930]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.18-13.39.58:756][122]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.39.58:772][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-13.39.58:772][122]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 7:39:58)
+[2017.05.18-13.39.58:772][122]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.39.58:775][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002617s)
+[2017.05.18-13.39.58:776][122]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.39.58:776][122]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2017.05.18-13.39.58:776][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003612s)
+[2017.05.18-13.39.58:822][122]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-13.39.58:839][122]LogInit: FAudioDevice initialized.
+[2017.05.18-13.39.58:889][122]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.39.58:892][122]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.39.58
+[2017.05.18-13.39.58:892][122]LogWorld: Bringing up level for play took: 0.002512
+[2017.05.18-13.39.58:894][122]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.982
+[2017.05.18-13.40.08:485][672]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.40.08:501][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-13.40.08:501][672]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 7:40:08)
+[2017.05.18-13.40.08:522][672]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.40.08:525][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002813s)
+[2017.05.18-13.40.08:526][672]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.40.08:526][672]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2017.05.18-13.40.08:526][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003713s)
+[2017.05.18-13.40.08:552][672]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-13.40.08:569][672]LogInit: FAudioDevice initialized.
+[2017.05.18-13.40.08:599][672]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.40.08:602][672]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.40.08
+[2017.05.18-13.40.08:602][672]LogWorld: Bringing up level for play took: 0.002782
+[2017.05.18-13.40.08:604][672]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.692
+[2017.05.18-13.40.17:667][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset" SILENT=true
+[2017.05.18-13.40.17:697][228]LogSavePackage: Save=23.53ms
+[2017.05.18-13.40.17:697][228]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/BulletBPEF058AB948D17C6C2678949AC1B935A3.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset'
+[2017.05.18-13.40.17:700][228]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Gun/BulletBP.uasset
+[2017.05.18-13.40.22:285][529]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.18-13.40.24:579][713]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.40.24:595][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-13.40.24:595][713]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 7:40:24)
+[2017.05.18-13.40.24:595][713]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.40.24:598][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002436s)
+[2017.05.18-13.40.24:598][713]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.40.24:598][713]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2017.05.18-13.40.24:598][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003333s)
+[2017.05.18-13.40.24:623][713]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-13.40.24:640][713]LogInit: FAudioDevice initialized.
+[2017.05.18-13.40.24:667][713]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.40.24:670][713]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.40.24
+[2017.05.18-13.40.24:671][713]LogWorld: Bringing up level for play took: 0.002422
+[2017.05.18-13.40.24:672][713]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 0.76
+[2017.05.18-13.41.00:501][380]Cmd: TRANSACTION UNDO
+[2017.05.18-13.41.00:501][380]LogEditorTransaction: Undo 핀 링크 끊기
+[2017.05.18-13.41.27:892][986]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.18-13.41.31:394][230]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.41.31:410][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-13.41.31:410][230]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 7:41:31)
+[2017.05.18-13.41.31:410][230]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.41.31:413][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002594s)
+[2017.05.18-13.41.31:413][230]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.41.31:413][230]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2017.05.18-13.41.31:414][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003750s)
+[2017.05.18-13.41.31:439][230]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-13.41.31:456][230]LogInit: FAudioDevice initialized.
+[2017.05.18-13.41.31:507][230]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.41.31:510][230]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.41.31
+[2017.05.18-13.41.31:510][230]LogWorld: Bringing up level for play took: 0.002625
+[2017.05.18-13.41.31:512][230]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: -0.4
+[2017.05.18-13.42.51:987][ 49]BlueprintLog: New page: EnemySpawnBP 컴파일
+[2017.05.18-13.42.57:794][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemySpawnBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemySpawnBP.uasset" SILENT=true
+[2017.05.18-13.42.57:855][315]LogSavePackage: Save=14.79ms
+[2017.05.18-13.42.57:855][315]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/EnemySpawnBP37985F0941DCAD42CB831EBB8C6C4B18.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemySpawnBP.uasset'
+[2017.05.18-13.42.57:863][315]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemySpawnBP.uasset
+[2017.05.18-13.45.16:522][528]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-13.47.20:086][972]BlueprintLog: New page: EnemySpawnBP 컴파일
+[2017.05.18-13.47.32:064][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemySpawnBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemySpawnBP.uasset" SILENT=true
+[2017.05.18-13.47.32:116][416]LogSavePackage: Save=47.56ms
+[2017.05.18-13.47.32:116][416]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/EnemySpawnBP992993544B8B66E08F0598B8FF80C761.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemySpawnBP.uasset'
+[2017.05.18-13.47.32:120][416]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Content/Enemy/EnemySpawnBP.uasset
+[2017.05.18-13.47.37:022][812]LogEditorViewport: Clicking on Actor (LMB): EnemyBP_C (EnemyBP)
+[2017.05.18-13.47.37:942][910]Cmd: DELETE
+[2017.05.18-13.47.37:942][910]Cmd: ACTOR DELETE
+[2017.05.18-13.47.38:043][910]LogEditorActor: Deleted Actor: EnemyBP_C
+[2017.05.18-13.47.38:080][910]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2017.05.18-13.47.44:712][438]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.47.44:772][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-13.47.44:772][438]PIE: New page: PIE 세션: Baselevel (2017. 5. 19. 오전 7:47:44)
+[2017.05.18-13.47.44:772][438]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Baselevel
+[2017.05.18-13.47.44:775][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002242s)
+[2017.05.18-13.47.44:775][438]LogAIModule: Creating AISystem for world Baselevel
+[2017.05.18-13.47.44:775][438]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2017.05.18-13.47.44:776][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Baselevel.Baselevel to /Game/Levels/UEDPIE_0_Baselevel.Baselevel (0.003152s)
+[2017.05.18-13.47.44:819][438]LogInit: XAudio2 using '스피커(VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-13.47.44:857][438]LogInit: FAudioDevice initialized.
+[2017.05.18-13.47.44:918][438]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.18-13.47.44:921][438]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 0) at 2017.05.18-22.47.44
+[2017.05.18-13.47.44:940][438]LogWorld: Bringing up level for play took: 0.020629
+[2017.05.18-13.47.44:942][438]PIE: 정보 /Game/Levels/UEDPIE_0_Baselevel 에 대한 에디터에서 플레이 시작 시간: 1.024
+[2017.05.18-13.47.47:730][752]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=76.540 Y=-0.374 Z=108.000] for [EnemyBP_C]
+[2017.05.18-13.47.49:219][930]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=27.085 Y=-25.005 Z=108.000] for [EnemyBP_C]
+[2017.05.18-13.47.50:220][ 50]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=153.811 Y=1.999 Z=108.000] for [EnemyBP_C]
+[2017.05.18-13.47.59:223][127]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=68.632 Y=-26.332 Z=108.000] for [EnemyBP_C]
+[2017.05.18-13.47.59:723][186]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=35.985 Y=-23.354 Z=108.000] for [EnemyBP_C]
+[2017.05.18-13.48.01:224][363]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=103.302 Y=-37.316 Z=108.000] for [EnemyBP_C]
+[2017.05.18-13.48.49:770][810]LogSavePackage: Save=69.80ms
+[2017.05.18-13.48.49:770][810]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Baselevel_Auto30803E3CC4BFB6B64FE15EDBA645F52BB.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Levels/Baselevel_Auto3.umap'
+[2017.05.18-13.48.49:772][810]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Levels/Baselevel_Auto3.umap
+[2017.05.18-13.48.49:774][810]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Baselevel' took 0.243
+[2017.05.18-13.48.49:774][810]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.243
+[2017.05.18-13.48.49:777][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gun/BulletBP] ([1] browsable assets)...
+[2017.05.18-13.48.49:794][810]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Gun/BulletBP.BulletBP]
+[2017.05.18-13.48.49:794][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gun/BulletBP]
+[2017.05.18-13.48.49:794][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletBP" FILE="../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Gun/BulletBP_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2017.05.18-13.48.49:903][810]LogSavePackage: Save=24.44ms
+[2017.05.18-13.48.49:903][810]LogSavePackage: Moving '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/BulletBP_Auto3A6FAE23E421E16E86458A09B849AB26E.tmp' to '../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Gun/BulletBP_Auto3.uasset'
+[2017.05.18-13.48.49:905][810]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hoon/Desktop/ForUnReal/ForTest/ForTest0518/Saved/Autosaves/Game/Gun/BulletBP_Auto3.uasset
+[2017.05.18-13.48.49:905][810]LogFileHelpers: Auto-saving content packages took 0.129
